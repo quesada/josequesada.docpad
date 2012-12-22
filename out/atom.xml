@@ -3,7 +3,7 @@
     <title>Jose quesada: E-commerce database marketing</title>
     <link href="http://josequesada.com/atom.xml" rel="self"/>
     <link href="http://josequesada.com"/>
-    <updated>2012-12-22T14:57:10.360Z</updated>
+    <updated>2012-12-22T17:28:23.868Z</updated>
     <id>http://josequesada.com</id>
     <author>
         <name>Jose Quesada</name>
@@ -137,16 +137,16 @@ can turn 2 purchases into 12 purchases, all with the same amount of
 daily traffic. Google Website Optimizer (GWO) comes from a company that
 knows AB testing, most shopping carts support it via plugins, and is
 free. How could this be a bad choice? The devil is in the details. I’ll
-list a few reasons.&lt;/p&gt;
+list a few reasons.
 
+&lt;/p&gt;
 &lt;h2&gt;Ambiguous goal&lt;/h2&gt;
-
 &lt;p&gt;GWO seemingly aims at two clients, the non-technical marketer, and the
 technical person (who happily inserts javascript on their pages). But it
-doesn’t serve either of them particularly well.&lt;/p&gt;
+doesn’t serve either of them particularly well.
 
+&lt;/p&gt;
 &lt;h3&gt;The non-technical Marketing expert&lt;/h3&gt;
-
 &lt;p&gt;GWO targets the non-technical marketer, since you do not need to write
 code to use GWO. Since some small shops do not have technical talent in
 house, and big shops have overloaded IT departments, not having to write
@@ -161,10 +161,10 @@ possible for you to create and run A/B tests on your site. All you need
 to do is enter your website URL and point and click on what you want to
 change. Absolutely no coding or engineering required. “ Visual Website
 Optimizer is an excellent choice too. We just don’t see very many shops
-actually using either of them, but we will cover this on another post.&lt;/p&gt;
+actually using either of them, but we will cover this on another post.
 
+&lt;/p&gt;
 &lt;h3&gt;The programmer&lt;/h3&gt;
-
 &lt;p&gt;Actually, the hipster term for a programmer tasked to do this work on a
 website is ‘Growth hacker’ :) Turns out that for a ‘Growth hacker’ is at
 a loss when using GWO. The ‘data scientist’ in your team won’t be very
@@ -174,22 +174,21 @@ other. You wouldn&amp;#39;t know if one variation resulted in more time spent,
 less advert clicks, more user interaction (in terms of comments), or
 more purchases. And you won&amp;#39;t know how it affected your overall funnel
 behavior. The ‘Growth hacker’ will be the first to point out a bunch of
-technical reasons in which it GWO fails short&amp;hellip;&lt;/p&gt;
+technical reasons in which it GWO fails short...
 
+&lt;/p&gt;
 &lt;h2&gt;Technical reasons&lt;/h2&gt;
-
 &lt;h3&gt;Problems with dynamic sites&lt;/h3&gt;
-
 &lt;p&gt;The ‘Growth hacker’ will not be happy with how GWO deals with dynamic
-content. Google Website Optimizer does &amp;ldquo;in-line content replacement&amp;rdquo; of
+content. Google Website Optimizer does &amp;quot;in-line content replacement&amp;quot; of
 tested elements. That&amp;#39;s not a problem on static landing pages, but it&amp;#39;s
 a no-go on most dynamic sites. Which happen to be a majority on 2012’s
 internet. In GWO, you end up essentially having to rewrite any variant
 to be displayable in Javascript. pages where you have AJAX and Flash
-elements are possible, but require workarounds.&lt;/p&gt;
+elements are possible, but require workarounds.
 
+&lt;/p&gt;
 &lt;h3&gt;Two-url requirement&lt;/h3&gt;
-
 &lt;p&gt;Using variation pages causes SEO and site problems when the test ends
 unless you manage your server to produce 301 errors. So you&amp;#39;ll either
 need to keep the losers alive forever or set up redirects from each of
@@ -205,25 +204,25 @@ users. But even without this penalty, putting the same content on two
 URLs visible to users encourages them to link to both. Even after the
 test declared it as a loser, the second url may need to stay around
 forever. In fact, you risk to disappoint the users that bookmarked the
-alternative which lost.&lt;/p&gt;
+alternative which lost.
 
+&lt;/p&gt;
 &lt;h3&gt;Load time&lt;/h3&gt;
-
 &lt;p&gt;Every time you do a test with two alternatives, it will cost you an
 extra page load. With shoppers being extremely sensitive to &lt;a href=&quot;http://www.hindawi.com/journals/ahci/2009/121494/tab2/&quot;&gt;loading
 times&lt;/a&gt;, speed is
 crucial. Causing an extra page load is just about the worst thing you
-can do for page load speed.&lt;/p&gt;
+can do for page load speed.
 
+&lt;/p&gt;
 &lt;h3&gt;To Google Website Optimizer, all of your visitors are the same&lt;/h3&gt;
-
 &lt;p&gt;In the current GWO, you cannot filter which users go into the test. Not
 by search terms. Not by geography. Not by demographics.This goes against
 the very essence of optimization. Using demographics for targeting
 should be trivial, and a big honking feature for any testing software.
 In fact, the web seems to start leaving behind demographics and focus on
 psychographics. Times cannot be better for targeting. Consumer are
-divided according to their lifestyle, personality, values&amp;hellip; There are
+divided according to their lifestyle, personality, values... There are
 some spectacular examples out there. Target could &lt;a href=&quot;http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/&quot;&gt;predict that a teen
 girl was pregnant before her father
 did&lt;/a&gt;.
@@ -233,12 +232,11 @@ service, while psychographics helps you understand why they buy. Another
 way to put it is that demographics are things that can be observed from
 the outside, such as age and race, while psychographics are internal
 attributes or attitudes. Still, GWO will not let you use your
-hard-earned targeting results.&lt;/p&gt;
+hard-earned targeting results.
 
+&lt;/p&gt;
 &lt;h2&gt;Usability reasons&lt;/h2&gt;
-
 &lt;h3&gt;Time it takes to set up a test&lt;/h3&gt;
-
 &lt;p&gt;Using GWO, I feel It takes me too many steps to get to results. It
 doesn’t feel productive. This is a reason why you often see Google
 Website Optimizer only used on static landing pages and other non-core
@@ -250,11 +248,11 @@ the servers: the humans doing it in Javascript sacrifices convenience,
 to a level that may make you too lazy to actually test things. For
 example, deploying an AB test live on one of my sites took two minutes
 (using a server-side test framework), but when I run experiments with
-GWO it requires 15 minutes at a minimum.&lt;/p&gt;
+GWO it requires 15 minutes at a minimum.
 
+&lt;/p&gt;
 &lt;h3&gt;Dealing with tags&lt;/h3&gt;
-
-&lt;p&gt;Google calls them &amp;ldquo;page sections.&amp;rdquo; Omniture calls them &amp;ldquo;mboxes.&amp;rdquo; They
+&lt;p&gt;Google calls them &amp;quot;page sections.&amp;quot; Omniture calls them &amp;quot;mboxes.&amp;quot; They
 define sections that you want to affect in your testing. For this
 approach to work, you have to wrap tags around every variable area on
 every page and/or template. If you make changes later, then you’ll have
@@ -263,22 +261,22 @@ me think twice about doing any testing. I can see how shops, with
 limited resources, struggle to do proper testing, or simply postpone it
 to the mythical day ‘when we have more resources’. In sum, google
 website optimizer’s usability would make
-&lt;a href=&quot;http://dilbert.com/strips/comic/2007-11-16/&quot;&gt;Mordac&lt;/a&gt; proud.&lt;/p&gt;
+&lt;a href=&quot;http://dilbert.com/strips/comic/2007-11-16/&quot;&gt;Mordac&lt;/a&gt; proud.
 
+&lt;/p&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
-
 &lt;p&gt;In our experience, Businesses see the value in A/B testing but they just
 aren&amp;#39;t doing it. If you, or anyone on your team, can program, it’s worth
 looking at a server-side solution (more on this in another post). A
-server-side solution will have several advantages:&lt;/p&gt;
+server-side solution will have several advantages:
 
+&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;  It leads to faster loading pages, prevent horrible mistakes, and
+&lt;li&gt;It leads to faster loading pages, prevent horrible mistakes, and
 gives more flexibility to target your visitors, as we saw in
 ‘technical reasons’&lt;/li&gt;
-&lt;li&gt;  It’s easier to set up tests, as we saw in the ‘usability’ section&lt;/li&gt;
+&lt;li&gt;It’s easier to set up tests, as we saw in the ‘usability’ section&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Finally, all data stays in-house. If you ever come up with some better
 analytic method, you can run it retrospectively. Google Website
 Optimizer is a great product but if you are short on time and don&amp;#39;t want
@@ -578,10 +576,10 @@ socket.on('regenerated',function(){
             &lt;h1&gt;What do we learn from Amazon's success?&lt;/h1&gt;
             &lt;div class=&quot;post-date&quot;&gt;Sunday, December 02, 2012&lt;/div&gt;
             &lt;div class=&quot;post-content&quot;&gt;&lt;h1&gt;Conversion&lt;/h1&gt;
-
 &lt;p&gt;But as conversion goes, the giant is clearly Amazon. &lt;a href=&quot;http://www.smartinsights.com/digital-marketing-strategy/online-business-revenue-models/amazon-case-study/&quot;&gt;Amazon generates 47
-times as much revenue per unique visitor as Facebook&lt;/a&gt;. &lt;/p&gt;
+times as much revenue per unique visitor as Facebook&lt;/a&gt;. 
 
+&lt;/p&gt;
 &lt;p&gt;Why is this important?
 Amazon expertly leverages online behavior to optimize conversions. Its
 suggestive shopping engine offers an excellent example of tying visitor actions
