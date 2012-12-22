@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta -->
+    <meta charset="utf-8" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+    <!-- Use the .htaccess and remove these lines to avoid edge case issues.
+       More info: h5bp.com/i/378 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <!-- Our site title and description -->
+    <title>Unit Testing DocPad plugins | Jose quesada: E-commerce database marketing</title>
+    <meta name="description" content="Website of Jose Quesada." />
+    <meta name="keywords" content="quesada, jose quesada, R, semantic web, semantic analysis, predictive models, statistics, machine learning, marketing, psychographics, cognitive science, database marketing" />
+    <meta name="author" content="Jose Quesada" />
+
+    <!-- Output DocPad produced meta elements -->
+    <meta http-equiv="X-Powered-By" content="DocPad"/>
+
+    <!-- Mobile viewport optimized: h5bp.com/viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- DocPad Meta Information -->
+    <meta http-equiv="X-Powered-By" content="DocPad"/>
+
+
+    <!-- Shims: IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+        <script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="/styles/skeleton.css" />
+    <link rel="stylesheet" href="/styles/base.css" />
+    <link rel="stylesheet" href="/styles/layout.css" />
+    <link rel="stylesheet" href="/styles/font-awesome.css" />
+    <link rel="stylesheet" href="/styles/github.css" />
+
+    <!-- convertable contact forms with analytics -->
+    <script type="text/javascript">
+    var trackerID = "3a39856ed90784117b180fecb5102e79"; // account identifier
+    document.write("<script type=\"text/JavaScript\" src=\"http://convertable.com/admin/script.js\"></"+"script>");
+    </script>
+
+    <!-- google analytics -->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', "UA-36430477-1"]);
+      _gaq.push(['_setDomainName', 'josequesada.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+    <!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+        typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+        mixpanel.init("3fcbcafa555fc23a2d9863437ee2af0d");</script><!-- end Mixpanel -->
+</head>
+
+<body>
+
+    <div class="wrap-header">
+        <div class="container">
+            <h1 class="logo"><a href="/" title="Jose Quesada PhD Ecommerce database marketing">Jose Quesada</a></h1>
+            <nav class="primary">
+                <ul>
+                    <li><a href="/problems-and-solutions.html">problems & solutions</a> / </li>
+                    <!-- <li><a href="/why-you-should-work-with-me.html">problems & solutions</a> / </li> -->
+                    <li><a href="/blog.html">blog</a> / </li>
+                    <li><script type="text/javascript" language="javascript">
+                    <!--
+                    // Email obfuscator script 2.1 by Tim Williams, University of Arizona
+                    // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
+                    // This code is freeware provided these four comment lines remain intact
+                    // A wizard to generate this code is at http://www.jottings.com/obfuscator/
+                    { coded = "Ga@EOmac4amWvW.7OG"
+                      key = "01yc9R8u3rmDNFLvWo5AC7YgV4nfG6zMjwkOxHJUileBZQTqbKE2IpsPShtdaX"
+                      shift=coded.length
+                      link=""
+                      for (i=0; i<coded.length; i++) {
+                        if (key.indexOf(coded.charAt(i))==-1) {
+                          ltr = coded.charAt(i)
+                          link += (ltr)
+                        }
+                        else {
+                          ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+                          link += (key.charAt(ltr))
+                        }
+                      }
+                    document.write("<a href='mailto:"+link+"'>contact</a>")
+                    }
+                    //-->
+                    </script><noscript>Sorry, you need Javascript on to email me.</noscript>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+
+<!-- end header and top nav bar -->
+
+
+    <div class="container post">
+    <div class="two-thirds">
+        <article id="post" class="post">
+            <h1>Unit Testing DocPad plugins</h1>
+            <div class="post-date">Monday, December 03, 2012</div>
+            <div class="post-content"><p>In the <a href="/posts/creating-a-docpad-plugin.html">last post</a> I detailed how I put together the <a href="http://github.com/benjamind/docpad-plugin-paged">Paged Plugin</a> for DocPad. After I got the plugin up and running on my own site, I decided I&#39;d give back to the community and publish it on NPM for everyone to use. This entailed pulling the plugin out into a standalone module, and getting the unit testing working so I knew it was all good to go.</p>
+
+<p>In order to do this I first had to setup the following folder structure:</p>
+
+<pre class="highlighted"><code class="bash">docpad-plugin-paged/
+                    src/
+                        paged.plugin.coffee
+                        paged.tester.coffee
+                    test/
+                         out-expected/
+                                       paged-count.html
+                                       paged-count.1.html
+                                       paged-count.2.html
+                         src/
+                             documents/
+                                       page-count.html.eco
+                             paged.test.js
+                         package.json
+                    Makefile
+                    README.md
+                    package.json
+</code></pre>
+
+<p>The <code>package.json</code> remains mostly the same as in previous exmaples with a small addition:</p>
+
+<pre class="highlighted"><code class="r">    <span class="keyword">...</span>
+
+    <span class="string">"devDependencies"</span>: {
+        <span class="string">"coffee-script"</span>: <span class="string">"1.4.x"</span>
+    },
+    <span class="string">"scripts"</span>: {
+        <span class="string">"test"</span>: <span class="string">"node ./test/paged.test.js"</span>
+    }
+
+    <span class="keyword">...</span>
+</code></pre>
+
+<p>The <code>devDependencies</code> object specfies dependencies we have for development purposes only, in this case we need CoffeeScript to compile the plugin. The <code>scripts</code> object specifies the test runner that <code>npm</code> will use to test the plugin.</p>
+
+<p>Note that I&#39;ve added a <code>Makefile</code> to the folder, this is fairly standard for all DocPad plugins and I copied it from <a href="https://github.com/docpad/docpad-plugin-partials/blob/master/Makefile">one of the existing ones</a>.</p>
+
+<p>The source for our plugin is now in the <code>src</code> folder in the <code>paged.plugin.coffee</code> file as before, I&#39;ve also added some files here for testing purposes which I&#39;ll explain in more detail.</p>
+
+<h3>Unit Testing</h3>
+
+<p>Since I&#39;m releasing this code out into the wild it might also be wise to make sure it works so lets setup some unit testing. Thankfully DocPad has made this quite easy once you know how, with a suite of basic tests and expected output tests ready to roll so you don&#39;t have to do much to make sure your plugin is working correctly.</p>
+
+<p>First we must create a &#39;tester&#39; for our plugin, this is defined in the new <code>paged.tester.coffee</code> file:</p>
+
+<pre class="highlighted"><code class="scala"># Export Plugin Tester
+module.exports = (testers) -&gt;
+    # Define Plugin Tester
+    <span class="class"><span class="keyword">class</span> <span class="title">MyTester</span> <span class="keyword">extends</span> <span class="title">testers</span>.<span class="title">RendererTester</span></span>
+        # Configuration
+        docpadConfig:
+            logLevel: <span class="number">5</span>
+            enabledPlugins:
+                <span class="string">'paged'</span>: <span class="keyword">true</span>
+                <span class="string">'eco'</span>: <span class="keyword">true</span>
+</code></pre>
+
+<p>Notice here we&#39;re extending from the testers.RendererTester class. This is provided by DocPad and is designed to execute the plugin on a collection of documents and tests its output against a folder of expected results (<code>out-expected</code>). To figure out exactly how this works you might want to take a look at the source <a href="https://github.com/bevry/docpad/blob/master/src/lib/testers.coffee">available here</a>. But all you really need to know is the <code>docpadConfig</code> is used to configure an instance of DocPad to be used during testing, so here we enable our plugin and anything else we&#39;ll need in our tests.</p>
+
+<p>Next we need to sort out our <code>test</code> folder which will actually contain and specify our tests. First up is our <code>package.json</code> file in the <code>test</code> folder, this is used to specify the dependencies for the test and to allow NPM to hook everything up for us:</p>
+
+<pre class="highlighted"><code class="json">{
+    "<span class="attribute">name</span>": <span class="value"><span class="string">"docpad-plugin-paged-testsuite"</span></span>,
+    "<span class="attribute">version</span>": <span class="value"><span class="string">"0.1.0"</span></span>,
+    "<span class="attribute">private</span>": <span class="value"><span class="literal">true</span></span>,
+    "<span class="attribute">dependencies</span>": <span class="value">{
+        "<span class="attribute">docpad-plugin-eco</span>": <span class="value"><span class="string">"latest"</span>
+    }</span>
+}</span>
+</code></pre>
+
+<p>Now we can specify our actual test case in our <code>paged.test.js</code> file:</p>
+
+<pre class="highlighted"><code class="erlang"><span class="function"><span class="title">require</span><span class="params">('docpad')</span>.<span class="title">require</span><span class="params">('testers')</span>.<span class="title">test</span><span class="params">(<span class="tuple">{plugin<span class="variable">Path</span>: <span class="variable">_</span>_dirname+'/..',plugin<span class="variable">Name</span>:'paged'}</span>)</span>;
+</code></pre>
+
+<p>All this does is get access to the testers module provided by DocPad and execute the test function passing in a configuration that tells DocPad how to run our plugin tests. All you actually have to specify is the <code>pluginPath</code> which in this case simply points to the parent folder which contains our plugins <code>package.json</code> and a <code>pluginName</code> which allows DocPad to properly instantiate our plugin. If you don&#39;t specify a <code>pluginName</code> property then DocPad will try and use the folder name of the plugin folder (in my case thats <code>docpad-plugin-paged</code> which does not match the filenames I used in my plugin).</p>
+
+<p>Now for the content of the tests. Since we&#39;re using the RendererTester the test will consist of instanatiating a copy of DocPad and running it over the contents of the <code>/test/src/documents</code> folder and then comparing the resulting documents with the ones found in <code>/test/out-expected</code>. So simply place some documents in the folder and set it up as you would expect, for my simplest test I did the following in a file called <code>page-count.html.eco</code>:</p>
+
+<pre class="highlighted"><code class="javascript">---
+title: <span class="string">'Page Count Test'</span>
+isPaged: <span class="literal">true</span>
+pageCount: <span class="number">3</span>
+pageSize: <span class="number">2</span>
+---
+<span class="xml"><span class="tag">&lt;<span class="title">header</span>&gt;</span>Page <span class="vbscript">&lt;%= @document.page.number+<span class="number">1</span> %&gt;</span> of <span class="vbscript">&lt;%= @document.page.count %&gt;</span> : Documents [<span class="vbscript">&lt;% <span class="keyword">for</span> i <span class="keyword">in</span> [@document.page.startIdx...@document.page.endIdx]: %&gt;</span><span class="vbscript">&lt;%= i %&gt;</span><span class="vbscript">&lt;%= <span class="comment">',' if i &lt; @document.page.endIdx-1 %&gt;</span></span><span class="vbscript">&lt;% <span class="keyword">end</span> %&gt;</span>]<span class="tag">&lt;/<span class="title">header</span>&gt;</span>
+</span></code></pre>
+
+<p>This exercises my plugin by making it generate 3 pages each containing 2 documents, outputting a little HTML in each one. In order to make the test pass I just need to add the expected output to the appropriate folder each file goes a little somethind like this:</p>
+
+<pre class="highlighted"><code class="xml"><span class="tag">&lt;<span class="title">header</span>&gt;</span>Page 1 of 3 : Documents [0,1]<span class="tag">&lt;/<span class="title">header</span>&gt;</span>
+</code></pre>
+
+<p>See <a href="https://github.com/benjamind/docpad-plugin-paged/tree/master/test/out-expected">the source</a> for more details.</p>
+
+<h3>Running the tests</h3>
+
+<p>So we&#39;ve setup the appropriate file structure, and added our tests. How do we actually execute them? Well its quite simple, but it requires a little more setup than you would hope at first. Because we added the <code>test</code> script to our <code>package.json</code> specifying a path to the test file we can use the command <code>npm test</code> to execute our test suite. However if you run that now you&#39;ll probably get an error message of some sort:</p>
+
+<pre class="highlighted"><code class="matlab">$ npm test
+
+&gt; docpad-plugin-paged@<span class="number">0.1</span><span class="number">.3</span> test C:\Workspace\docpad-plugin-paged
+&gt; node ./test/<span class="transposed_variable">paged.</span><span class="transposed_variable">test.</span>js
+
+
+<span class="transposed_variable">module.</span>js:<span class="number">340</span>
+    throw err;
+          ^
+Error: Cannot <span class="built_in">find</span> module <span class="string">'docpad'</span>
+    at <span class="transposed_variable">Function.</span><span class="transposed_variable">Module.</span>_resolveFilename (<span class="transposed_variable">module.</span>js:<span class="number">338</span>:<span class="number">15</span>)
+    at <span class="transposed_variable">Function.</span><span class="transposed_variable">Module.</span>_load (<span class="transposed_variable">module.</span>js:<span class="number">280</span>:<span class="number">25</span>)
+    at <span class="transposed_variable">Module.</span>require (<span class="transposed_variable">module.</span>js:<span class="number">362</span>:<span class="number">17</span>)
+    at require (<span class="transposed_variable">module.</span>js:<span class="number">378</span>:<span class="number">17</span>)
+    at <span class="transposed_variable">Object.</span>&lt;anonymous&gt; (C:\Workspace\docpad-plugin-paged\test\<span class="transposed_variable">paged.</span><span class="transposed_variable">test.</span>js:<span class="number">1</span>:<span class="number">63</span>)
+    at <span class="transposed_variable">Module.</span>_compile (<span class="transposed_variable">module.</span>js:<span class="number">449</span>:<span class="number">26</span>)
+    at <span class="transposed_variable">Object.</span><span class="transposed_variable">Module.</span><span class="transposed_variable">_extensions..</span>js (<span class="transposed_variable">module.</span>js:<span class="number">467</span>:<span class="number">10</span>)
+    at <span class="transposed_variable">Module.</span>load (<span class="transposed_variable">module.</span>js:<span class="number">356</span>:<span class="number">32</span>)
+    at <span class="transposed_variable">Function.</span><span class="transposed_variable">Module.</span>_load (<span class="transposed_variable">module.</span>js:<span class="number">312</span>:<span class="number">12</span>)
+    at <span class="transposed_variable">Module.</span>runMain (<span class="transposed_variable">module.</span>js:<span class="number">492</span>:<span class="number">10</span>)
+npm ERR! Test <span class="transposed_variable">failed.</span>  See above <span class="keyword">for</span> more <span class="transposed_variable">details.</span>
+npm
+</code></pre>
+
+<p>Not good. In order to get this working I had to turn to <a href="http://balupton.com/">Benjamin Lupton</a> the creator of DocPad for some answers. In short to setup the testing structure we need to get the development version of DocPad, compile it, and setup symlinks so that your plugin tests can use it. So to get everything setup you&#39;ll need to install the DocPad source, and setup a symlink to it, thankfully this is quite easy:</p>
+
+<ol>
+<li><code>git clone <a href="https://github.com/bevry/docpad.git&lt;/code&gt;">https://github.com/bevry/docpad.git&lt;/code&gt;</a> - Clone the DocPad respository into your workspace (not your plugin folder)</li>
+<li><code>cd docpad</code> - move into the new folder</li>
+<li><code>npm install</code> - install the DocPad dependencies locally</li>
+<li><code>npm link</code> - link the DocPad folder you have now created into npm, this means when you use DocPad on your machine it points to this working folder</li>
+<li><code>make compile</code> - compile DocPad so its ready to use</li>
+</ol>
+
+<p>Now we need to do something similar for your plugin:</p>
+
+<ol>
+<li><code>cd docpad-plugin-paged</code> - move into the folder for your plugin</li>
+<li><code>npm install</code> - install the dependencies for your plugin</li>
+<li><code>npm link docpad</code> - add the linked version of DocPad to your plugins dependencies</li>
+<li><code>make compile</code> - compile your plugin</li>
+<li><code>make test</code> - run the tests!</li>
+</ol>
+
+<p>Hopefully your tests should now run and pass!</p>
+
+<h3>Publishing on NPM</h3>
+
+<p>To round everything out I simply added some details to my <code>README.md</code> file and added an <code>.npmignore</code> file to my folder containing the following:</p>
+
+<pre class="highlighted"><code class="haskell">.travis*
+<span class="type">Makefile</span>
+
+<span class="title">src</span>/
+<span class="title">out</span>/test/
+<span class="title">test</span>/
+</code></pre>
+
+<p>This just tells npm to ignore my test folders and other things that are unnecessary. I then setup my user account on <a href="https://npmjs.org/signup"><a href="https://npmjs.org/signup&lt;/a&gt;">https://npmjs.org/signup&lt;/a&gt;</a> and added my user account details to my npm installation with <code>npm adduser</code>. After that publishing to npm is accomplished with the <code>npm publish</code> command.</p>
+
+<p>There you have it, a fully tested, published plugin for DocPad. Hopefully this will be the first of many, I&#39;ve a few other ideas for things I&#39;d like to see in the project so we&#39;ll see if I can find time to make them. If you are trying to get a DocPad plugin up and running and are having problems give me a shout, or drop into talk to the incredibly helpful DocPad guys on the irc.freenode.org server channel #docpad.</p>
+</div>
+        </article>
+    </div>
+
+    <!-- comments -->
+
+</div>
+
+<div class="container sidebar">
+    <div class="one-third">
+        
+            <h3>Related Posts</h3>
+            
+                <li><a href="/posts/blogging-with-docpad.html">Blogging with DocPad</a></li>
+            
+                <li><a href="/posts/creating-a-docpad-plugin.html">Creating a DocPad plugin</a></li>
+            
+                <li><a href="/posts/creating-the-index-page.html">Creating the index page</a></li>
+            
+                <li><a href="/posts/amazon.html">What do we learn from Amazon's success?</a></li>
+            
+                <li><a href="/posts/going-static.html">Going Static</a></li>
+            
+        
+
+        <div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'urlwolf'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+<!-- <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_developer = 1; // this makes it work on localhost. Not for me though
+    (function() {
+        window.disqus_shortname = 'urlwolf';
+        window.disqus_developer = document.location.href.indexOf('localhost') !== -1 ? 1 : 0;
+        window.disqus_url = document.location.href
+        window.disqus_identifier = 'posts-unit-testing-docpad-plugins';
+        window.disqus_title = 'Unit Testing DocPad plugins';
+        if ( window.DISQUS) {
+            return DISQUS.reset({
+                reload: true,
+                config: function () {
+                    this.page.identifier = window.disqus_identifier;
+                    this.page.url = window.disqus_url;
+                    this.page.title = window.disqus_title;
+                }
+            });
+        }
+        else {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        }
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a> -->
+
+    </div>
+</div>
+
+
+<!-- TODO: add CTA: follow me on twitter, subscribe to my newsletter, etc -->
+
+<!-- TODO, get this into partials -->
+<!-- start of footer -->
+    <footer>
+        <div class="container widgets">
+            <div class="one-third column  about">
+                <h2>About Me</h2>
+                <img src="images/josequesada.jpg" alt="" class="thumb"/>
+                <div>
+                    <p>I'm a modeler, with a PhD in Machine learning. I worked at top labs (U. of Colorado, Boulder; Carnegie Mellon); But my specialty is to find and optimize business value. If you think you can decide better, do better, or be better through data, contact me for a free consultation: </p>
+
+                    <script type="text/javascript" language="javascript">
+                    <!--
+                    // Email obfuscator script 2.1 by Tim Williams, University of Arizona
+                    // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
+                    // This code is freeware provided these four comment lines remain intact
+                    // A wizard to generate this code is at http://www.jottings.com/obfuscator/
+                    { coded = "Ga@EOmac4amWvW.7OG"
+                      key = "01yc9R8u3rmDNFLvWo5AC7YgV4nfG6zMjwkOxHJUileBZQTqbKE2IpsPShtdaX"
+                      shift=coded.length
+                      link=""
+                      for (i=0; i<coded.length; i++) {
+                        if (key.indexOf(coded.charAt(i))==-1) {
+                          ltr = coded.charAt(i)
+                          link += (ltr)
+                        }
+                        else {
+                          ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+                          link += (key.charAt(ltr))
+                        }
+                      }
+                    document.write("<a href='mailto:"+link+"'>me@josequesada.com</a>")
+                    }
+                    //-->
+                    </script><noscript>Sorry, you need Javascript on to email me.</noscript>
+                    <br>
+
+
+
+                    <ul>
+                        <!-- <li><a href="#" target="_blank"><img src="images/facebook.png" alt="" /></a></li> -->
+                        <li><a href="https://twitter.com/quesada" target="_blank"><img src="images/twitter.png" alt="" /></a></li>
+                        <li><a href="de.linkedin.com/in/jfquesada/" target="_blank"><img src="images/linkedin.jpg" alt="" /></a></li>
+
+                        <li><a href="atom.xml" target="_blank"><img src="images/rss.png" alt="" /></a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="one-third column  blog">
+               <h2>Resources</h2>
+                <nav>
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/blog.html" property="dc:title">Blog</a>
+                            </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+
+  <div class="one-third column  blog">
+        <h2>Recent posts</h2>
+            <nav>
+                <ul>
+                    
+                    
+                        
+                        <li class="">
+                            <a href="/posts/technical-reasons-not-to-pic-google-website-optimizer.html" property="dc:title">Technical reasons not to use google website optimizer (and Usability reasons too)</a>
+                        </li>
+                    
+                        
+                        <li class="active">
+                            <a href="/posts/unit-testing-docpad-plugins.html" property="dc:title">Unit Testing DocPad plugins</a>
+                        </li>
+                    
+                        
+                        <li class="">
+                            <a href="/posts/creating-a-docpad-plugin.html" property="dc:title">Creating a DocPad plugin</a>
+                        </li>
+                    
+                        
+                        <li class="">
+                            <a href="/posts/amazon.html" property="dc:title">What do we learn from Amazon's success?</a>
+                        </li>
+                    
+                        
+                        <li class="">
+                            <a href="/posts/creating-the-index-page.html" property="dc:title">Creating the index page</a>
+                        </li>
+                    
+                        
+                        <li class="">
+                            <a href="/posts/blogging-with-docpad.html" property="dc:title">Blogging with DocPad</a>
+                        </li>
+                    
+                        
+                        <li class="">
+                            <a href="/posts/going-static.html" property="dc:title">Going Static</a>
+                        </li>
+                    
+                </ul>
+            </nav>
+                <a class="dark-more">view more</a>
+            </div>
+    </footer>
+
+    <footer class="sub-footer">
+            <div class="container">
+                <div class="eight columns left">
+                    <p>Copyright 2012 <a href="#">Made with love from Berlin</a> </p>
+                </div>
+
+                <div class="eight columns right">
+                    <div class="mixpanel">
+                        <a href="https://mixpanel.com/f/partner"><img src="http://cdn.mxpnl.com/site_media/images/partner/badge_blue.png" alt="Mobile Analytics" /></a>
+                    </div>
+                    <!-- <h1 class="logo"><a href="#" title="Jose Quesada">Jose Quesada</a></h1> -->
+                </div>
+            </div>
+    </footer>
+    <script  src="/socket.io/socket.io.js"></script><script >var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});</script>
+</body>
+</html>

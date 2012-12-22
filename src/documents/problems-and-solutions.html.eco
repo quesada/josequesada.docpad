@@ -1,0 +1,78 @@
+---
+title: "Problems and solutions"
+layout: "default"
+---
+
+    <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+    <script>
+        $(function() {
+            $( "#accordion" ).accordion();
+        });
+
+        $(function() {
+            $( "#accordion2" ).accordion();
+        });
+
+        $( ".selector" ).accordion({ active: false, collapsible: true });
+
+    </script>
+
+
+</div>
+    <div class="container welcome">
+        <h1>Problems and solutions</h1>
+        <span class="graphic"><img src="images/graphic.png" alt="" /></span>
+    </div><!-- end welcome -->
+
+<div class ="container problemsandsolutions">
+
+    <p>This is a catalog of problems my clients face, and what business value I can deliver to solve them. Click on each problem to get one-paragraph explanations.</p>
+
+    <div class="eight columns">
+
+        <div id="accordion">
+
+            <h2>Problem #1: You want to know your Customer Lifetime Value, and a single percent point error could be very costly</h2>
+
+            <div>
+            Probabilistic marketing models in a non-contractual setting, such as retail or gaming,  assume each customer has two variables - one for how often he orders, and another for how long he&rsquo;ll last. These models are far more accurate than say cohort analyses approaches. Since you are going to bet money on these predictions, minimizing error is crucial. From my experience, the probabilistic models I use are around 5%-12% error.  They enable you to zoom in on a specific user that is one or two months old and to make a projected CLV calculation for that individual user. You can compute CLV for a product category, traffic source or any other segment.<br><br><br>
+
+            </div>
+
+            <h2>Problem #2: What should you test? When? How many people are enough?</h2>
+            <div>
+            Testing provides transparent evidence of whether all these sophisticated data analyses are actually successful. Testing is extremely simple - select 2000 customers, randomly divide them in half, run the program for one group and not the other, compare results. But designing database marketing tests is not easy; Experience in experimental design is very important to produce results. In my previous life as a researcher I had to do plenty of tests, and in the last two years I&rsquo;ve adapted all this knowledge to testing on the web. You can waste a lot of time testing inconsequential things. You can also use poor statistics to determine a test success (beware: many commercial tools do!). I&rsquo;ll make sure our testing is sound.
+            </div>
+
+            <h2>Problem #3: You want to find the right products for cross-selling and up-selling</h2>
+
+            <div>
+            When a sales person is on-site with a client, he can say &ldquo;I have just the perfect tie to go with that shirt&rdquo;. Nowadays, machines processing piles of data do this surprisingly well (i.e. amazon recommendations).
+            We can try next-product-to-buy models, which predict which product the customer is likely to purchase next.  There are  extensions using hazard models that predict when the customer will buy. For up-selling predictions we will use data envelope and stochastic frontier models. No model is perfect, but being systematic beats using your gut feeling for cross-selling and up-selling.<br></div>
+
+        </div>     <!-- accordion 1 -->
+    </div>
+
+    <div class="eight columns">
+        <div id="accordion2">
+
+            <h2>Problem #4: You want to manage Churn; or even better, know why people quit</h2>
+
+            <div>
+            There are many factors that affect churn: customer satisfaction, switching costs, customer characteristics, marketing efforts, and competition. I recommend proactive churn management, where you contact the customer  ahead of when she is predicted to churn. We will find  the service or incentive that will prevent the customer from churning (by testing). We can set up different behavioral markers (people hate surveys) to know more about why people quit, without asking them directly.<br></div>
+
+            <h2>Problem #5: You want to increase loyalty; You want to create an effective frequency reward program</h2>
+
+            <div>
+            Loyal customers are more profitable. Keeping existing customers is cheaper than finding new ones. Frequency reward programs are variations of the theme, &ldquo;Buy X, get a reward.&rdquo; &ldquo;X&rdquo; is usually a required minimum purchase, and the reward can be free product, a cash rebate, or even &ldquo;points&rdquo; (example: airlines). There are two ways that reward programs increase sales – points pressure and rewarded behavior. The difficulty here is to find the right  reward structure. I can optimize the rewards with state-of-the-art probabilistic models.
+            </div>
+
+            <h2>Problem #6: You want to know what price will a given customer be most likely to buy</h2>
+
+            <div>
+            Dynamic pricing occurs when prices are free to move immediately in response to changes in supply and demand, or triggered by behavior (e.g. If a customer visited the product page 5 times in a week but didn&rsquo;t buy, set a discount for him). Current technology has made dynamic pricing not only widely possible, but also commercially feasible. Most businesses price products individually. Product pricing optimizes the price of a given product without optimizing the pricing of the total bundle of products the customer will buy in his lifetime. Suppose a customer is more likely to buy a second product B if the customer already purchased product A. Then, you must jointly optimize the profits based on the profitability of the two products, not each separately.<br></div>
+            </div>     <!-- accordion -->
+        </div>        <!-- column -->
+
+</div> <!-- problems and solutions container -->

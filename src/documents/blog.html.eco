@@ -1,0 +1,38 @@
+---
+title: 'Blog'
+layout: 'default'
+tags: []
+isPaged: true
+pageOrder: 0
+pagedCollection: 'posts'
+pageSize: 5
+---
+<div class="container post">
+<% posts = @getCollection('posts') %>
+<% for i in [@document.page.startIdx...@document.page.endIdx]: %>
+	<% document = posts.at(i).toJSON() %>
+	<article id="post" class="post">
+		<h1><a href='<%=document.url%>'><%= document.title %></a></h1>
+		<div class="post-date"><%= document.date.toLocaleDateString() %></div>
+		<div class="post-content">
+			<%- document.contentRenderedWithoutLayouts %>
+		</div>
+	</article>
+	<hr/>
+<% end %>
+
+<ul class="pager">
+	<% if !@getDocument().hasNextPage(): %>
+		<li class="previous disabled"><span>&larr; Older</span></li>
+	<% else: %>
+		<li class="previous"><a href="<%= @getDocument().getNextPage() %>">&larr; Older</a></li>
+	<% end %>
+	<% if !@getDocument().hasPrevPage(): %>
+		<li class="next disabled"><span>Newer &rarr;</span></li>
+	<% else: %>
+		<li class="next"><a href="<%= @getDocument().getPrevPage() %>">Newer &rarr;</a></li>
+	<% end %>
+</ul>
+
+</div>
+<!-- end container post -->

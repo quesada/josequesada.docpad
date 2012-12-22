@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="container post">
+    <div class="two-thirds">
+        <article id="post" class="post">
+            <h1><%= @document.title %></h1>
+            <div class="post-date"><%= @document.date.toLocaleDateString() %></div>
+            <div class="post-content"><%- @content %></div>
+        </article>
+    </div>
+
+    <!-- comments -->
+
+</div>
+
+<div class="container sidebar">
+    <div class="one-third">
+        <% if  @document.relatedDocuments and @document.relatedDocuments.length: %>
+            <h3>Related Posts</h3>
+            <% for document in @document.relatedDocuments: %>
+                <li><a href="<%= document.url %>"><%= document.title %></a></li>
+            <% end %>
+        <% end %>
+
+        <%- @partial('disqus.html', @) %>
+
+    </div>
+</div>
+
+
+<!-- TODO: add CTA: follow me on twitter, subscribe to my newsletter, etc -->

@@ -1,0 +1,120 @@
+---
+title: "Why you should work with me"
+layout: "default"
+---
+
+<!-- <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/lightness/jquery-ui.css" /> -->
+
+
+    <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+    <script>
+    $(function() {
+        $( "#accordion" ).accordion();
+    });
+
+
+    $(function() {
+        $( "#accordion2" ).accordion();
+    });
+
+    $( ".selector" ).accordion({ active: false, collapsible: true });
+
+    </script>
+
+<div class="container welcome">
+    <h1>Why you should work with me</h1>
+            <span class="graphic"><img src="images/graphic.png" alt="" /></span>
+    </div><!-- end welcome -->
+
+
+<div class ="container whyworkwithme">
+
+    (click on the headings to expand)
+    <br>
+    <div class="eight columns">
+        <div id="accordion">
+            <h2>Reason #1: I take ownership of your business objectives</h2>
+            <p>You can hire me to produce a lift of 3%, and forget about it. I can manage my time and your investment to produce the desired results. I understand what generates business value (being an entrepreneur myself) and my results will show this.
+
+            </p>
+            <h2>Reason #2: I can put together (and lead) a technical team</h2>
+                <div>
+                    <p>Hiring is tough; Even if you can hire stars, having done two startups, I&#39;m familiar with how difficult it is to lead a team. I have an extensive network of consultants that can be brought in for certain jobs. We trust each other to get the job done. I can communicate with your existing technical team.
+                    </p>
+                    <p>Now, if you prefer me to do it alone...
+                    </p>
+                </div>
+
+            <h2>Reason #3: I can implement what I design (full stack developer)</h2>
+                <div>
+                    <p>Although this is probably not the best use of my time, I can put together an entire site (frontend and backend) if needed. I know enough CSS, html, Java Script, Python, and django to build a working app that will help you raise funding. I use version control (git). I can stick to a release schedule. I know what it means to close tickets when under pressure. However, I'd highly recommend to move this load to someone who does this fulltime, as they are likely faster than me. I can put you in touch with very capable people.
+                    </p>
+                    <br>
+                    <br>
+                </div>
+
+            <h2>Reason #4: I have up-to-date knowledge in database marketing and data science in general</h2>
+            <div>
+                <p>I have ~ 8 years of R experience, and <a href="http://www.slideshare.net/urlwolf/r-for-the-semantic-web-quesada-user-2009">have been a speaker in the R conference.</a> Database marketing as a field is changing rapidly. I'm keeping up with new developments so you don't have to. I'm building a (proprietary) R library with the most common analyses that clients ask, chances are that what you need, I've already implemented. This means faster development time and turnaround for you.
+                <br>
+                <br>
+            </div>
+        </div>
+    </div>
+
+    <div class="eight columns">
+
+        <div id="accordion2">
+
+            <h2>Reason #5: I will never report results that are not there, or are not important</h2>
+                <div>
+                    Getting promising results may take time; it is tempting to fiddle with data and report some vanity metrics that makes the project look good if stuck in 'the valley of sorrow'. There's  always something good to report. We all know the quotes... "Statistics are like bikinis.  What they reveal is suggestive, but what they conceal is vital" or "Lies - damned lies - and statistics." The danger here is that you may believe your own white lies. Are the new changes contributing to the bottom like? This is all that counts. If you hire me, I won't let you misguide yourself.
+                </div>
+
+            <h2>Reason #6: I have worked in prestigious institutions...</h2>
+                <div>
+                <p>Such as UC Boulder (the lab where Latent Semantic Analysis was born), Carnegie Mellon, and Max Planck Institute, Berlin. In my last job we had to run analyses on the entire semantic web (the goal of the  <a href="http://www.larkc.eu/">project</a> was infinite scalability). </p>
+                </div>
+
+            <h2>Reason #7: ... and in my own startups.</h2>
+                <div>
+                    <p>I&#39;m well connected in the Berlin tech scene. I attend lots of tech meetups, and sometimes present my work there. I organize my own meetup, <a href="http://www.meetup.com/demodinner/">demodinner</a>. The goal of demodinner is to fine-tune your sense of business value: "Is your company worth more than two weeks ago?" I have done two startups, being the CEO. I believe this gives me an edge over other data scientists because the survival of the enterprise depends on your 'nose' for such business value. If you fail to detect what your customers want, you die. It doesn't sound like something hard to understand, but when your head is down looking at data, you may miss the big picture. Is this graph I'm preparing going to affect our decisions significantly? Will be be able to measure changes with clarity? Will we see it on our bottom line?
+                </p>
+
+                </div>
+
+            <h2>Reason #8: I can communicate well</h2>
+                <div>
+                    <p>I can handle the data collection, the data cleaning and wrangling, the analysis, and the final presentation of results (both technical and for the business audience) with a minimal amount of assistance from my clients or their people. I know first-hand that coders are not necessarily good communicators. I've even heard "I became a programmer so I don't have to talk to people!" (entire room laughed). Years of listening to Academic presentations (which often suck, with very few gems in between) and to startup pitches later, now I think I have a good grasp on how to present. I have gotten funding twice by presenting my ideas. Leading a team is also a communication exercise; the closer to a deadline we are, the closer to real-time notifications the team should use (think twitter).
+
+                </p>
+                </div>
+
+            <h2>Reason #9: I can work with big datasets</h2>
+                <div>
+                    <p>In <a href="http://www.larkc.eu/">my work at LarKC</a>, we dealt with Billions of entries. I&#39;m familiar with NoSQL/graph databases. I can select the right methods considering the size of your dataset. I'm familiar with the sparse matrix implementations on both R and scipy. While I use out-of-core techniques, memory is cheap nowadays and there&#39;s a surprisingly large set of models where all intermediary steps fit into memory. That means that we may able to use even sophisticated analyses that are usually thought not to be useful for large datasets.
+
+                    </p>
+                </div>
+
+            <h2>Reason #10: I&#39;m a generalist</h2>
+                <div>
+                    <p>I studied Psychology and Fine Arts before I moved into machine learning. I've done two solo exhibitions. I think mastery in a non-technical discipline is an important plus because it shows mental flexibility (i.e. you are not only a great developer, but also a master at jazz music, mountain climbing, chess, painting ... something that has taught you how to think beyond a keyboard). In technology, we have to learn new things all the time. Showing mastery on a side skill is a testament of knowing how to jump-start new skills. </p>
+
+
+            </div>     <!-- end accordion -->
+        </div>
+    </div>
+</div> <!-- container whyworkwithme -->
+
+<div class="CTAcontactme">
+    <!--Place the code below where you want the link to be displayed-->
+<!--Place the code below where you want the link to be displayed-->
+<span id="obf"><script>document.getElementById("obf").innerHTML="<n uers=\"znvygb:zr@wbfrdhrfnqn.pbz?fhowrpg=Vavgvny pbafhygngvba erdhrfg\" gnetrg=\"_oynax\">Pbagnpg zr sbe n serr vavgvny pbafhygngvba</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});</script>
+<noscript><span style="unicode-bidi:bidi-override;direction:rtl;">moc.adaseuqesoj@em</span></noscript></span>
+    <!-- <a href="mailto:me@josequesada.com" class="dark-more">Contact me for a free consultation</a> -->
+    <br>
+    <br>
+</div>
+
