@@ -160,8 +160,4 @@ analytic method, you can run it retrospectively. Google Website
 Optimizer is a great product but if you are short on time and don't want
 to muck with your code, look somewhere else. For more reviews, see
 [this](http://mroptimization.com/multivariate-testing-and-targeting-vendors/multivariate-testing-with-google-website-optimizer-the-final-word)
-(on multivariate testing). Why do we care? Soon, we will open up the
-beta for fluidshopping, where we tackle this problem heads on. If you
-feel your shop should be doing be doing more A/B testing, or just doing
-it more efficiently, keep tuned. If you [give us your
-email](http://fluidshopping.com/), we will let you know when it’s ready.
+(on multivariate testing).
