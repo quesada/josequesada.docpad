@@ -1,6 +1,7 @@
 ---
 title: "Why you should work with me"
 layout: "default"
+pageOrder:  1
 ---
 
 <!-- <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/lightness/jquery-ui.css" /> -->

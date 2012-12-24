@@ -4,7 +4,10 @@ layout: post
 tags: ['amazon','strategy', 'data-science', 'site']
 date: 12/02/2012
 ignored: false
+
 ---
+
+
 # Conversion
 But as conversion goes, the giant is clearly Amazon. [Amazon generates 47
 times as much revenue per unique visitor as Facebook](http://www.smartinsights.com/digital-marketing-strategy/online-business-revenue-models/amazon-case-study/). 
@@ -20,4 +23,7 @@ in the country]( http://www.reportlinker.com/p0925320-summary/Consumer-Attitudes
 ). Estimates on Amazon’s conversion rates range from 9.8 to 18
 percent. Whatever the actual number is, it's far higher than the industry average.
 Amazon's behavioral targeting strategy is brilliant. 
+
+Behavioral Targeting is one of the most efficient, proactive strategies that an online store can undertake.
+
 

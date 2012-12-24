@@ -1,0 +1,44 @@
+{
+	"name": "josequesada.docpad",
+	"version": "1.2.2",
+	"description": "Website of Jose Quesada.",
+	"homepage": "https://github.com/quesada/josequesada.docpad",
+	"keywords": [
+		"quesada",
+		"jose quesada",
+		"website",
+		"docpad"
+	],
+	"author": "Benjamin Lupton <b@lupton.cc> (http://balupton.com)",
+	"maintainers": [
+		"Benjamin Lupton <b@lupton.cc> (http://balupton.com)"
+	],
+	"contributors": [
+		"Benjamin Lupton <b@lupton.cc> (http://balupton.com)"
+	],
+	"bugs": {
+		"url": "https://github.com/balupton/balupton.docpad/issues"
+	},
+	"repository" : {
+		"type" : "git",
+		"url" : "http://github.com/quesada/balupton.docpad.git"
+	},
+	"engines": {
+		"node": "0.8.x",
+		"npm": "1.1.x"
+	},
+	"dependencies": {
+		"docpad": "6.x",
+		"docpad-plugin-cachr": "2.x",
+		"docpad-plugin-cleanurls": "2.x",
+		"docpad-plugin-coffeekup": "2.x",
+		"docpad-plugin-coffeescript": "2.x",
+		"docpad-plugin-eco": "2.x",
+		"docpad-plugin-feedr": "2.x",
+		"docpad-plugin-robotskirt": "2.x",
+		"docpad-plugin-partials": "2.x",
+		"docpad-plugin-stylus": "2.x",
+		"docpad-plugin-livereload": "2.x"
+	},
+	"main": "node_modules/docpad/bin/docpad-server"
+}
