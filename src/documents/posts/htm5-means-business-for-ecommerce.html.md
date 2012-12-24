@@ -1,5 +1,5 @@
 ---
-title: HTML5 means business for ecommerce.
+title: HTML5 means business for ecommerce
 layout: post
 tags: ['newtech','HTML5','web-development']
 date: 12/22/2012

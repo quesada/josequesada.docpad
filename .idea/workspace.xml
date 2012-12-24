@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7762529-61cf-4beb-84f5-2416580ab975" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/sitemap.xml" afterPath="$PROJECT_DIR$/out/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/posts/amazon.html.md" afterPath="$PROJECT_DIR$/src/documents/posts/amazon.html.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/atom.xml" afterPath="$PROJECT_DIR$/out/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md" afterPath="$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md" />
     </list>
     <ignored path="josequesada.docpad.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,19 +40,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="amazon.html.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="amazon.html.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/posts/amazon.html.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.092521206">
+            <state line="6" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="htm5-means-business-for-ecommerce.html.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="htm5-means-business-for-ecommerce.html.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="3" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+            <state line="1" column="41" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0154202">
               <folding />
             </state>
           </provider>
@@ -135,9 +135,9 @@
         <option value="$PROJECT_DIR$/src/documents/problems-and-solutions.html.eco" />
         <option value="$PROJECT_DIR$/src/documents/why-you-should-work-with-me.html.eco" />
         <option value="$PROJECT_DIR$/src/layouts/default.html.eco" />
-        <option value="$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md" />
         <option value="$PROJECT_DIR$/src/documents/index.html.eco" />
         <option value="$PROJECT_DIR$/src/documents/posts/amazon.html.md" />
+        <option value="$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md" />
       </list>
     </option>
   </component>
@@ -559,16 +559,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="3" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/index.html.eco">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="49" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.7692308">
@@ -578,7 +568,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/posts/amazon.html.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.092521206">
+        <state line="6" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="41" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0154202">
           <folding />
         </state>
       </provider>
