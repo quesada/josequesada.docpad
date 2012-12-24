@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7762529-61cf-4beb-84f5-2416580ab975" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/atom.xml" afterPath="$PROJECT_DIR$/out/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/blog.html" afterPath="$PROJECT_DIR$/out/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/index.html" afterPath="$PROJECT_DIR$/out/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/posts/amazon.html" afterPath="$PROJECT_DIR$/out/posts/amazon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/posts/technical-reasons-not-to-pic-google-website-optimizer.html" afterPath="$PROJECT_DIR$/out/posts/technical-reasons-not-to-pic-google-website-optimizer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/problems-and-solutions.html" afterPath="$PROJECT_DIR$/out/problems-and-solutions.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/sitemap.xml" afterPath="$PROJECT_DIR$/out/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/why-you-should-work-with-me.html" afterPath="$PROJECT_DIR$/out/why-you-should-work-with-me.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/index.html.eco" afterPath="$PROJECT_DIR$/src/documents/index.html.eco" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/posts/amazon.html.md" afterPath="$PROJECT_DIR$/src/documents/posts/amazon.html.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/problems-and-solutions.html.eco" afterPath="$PROJECT_DIR$/src/documents/problems-and-solutions.html.eco" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/why-you-should-work-with-me.html.eco" afterPath="$PROJECT_DIR$/src/documents/why-you-should-work-with-me.html.eco" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/layouts/default.html.eco" afterPath="$PROJECT_DIR$/src/layouts/default.html.eco" />
     </list>
     <ignored path="josequesada.docpad.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,10 +40,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="amazon.html.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="amazon.html.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/documents/posts/amazon.html.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="22" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+            <state line="6" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.092521206">
               <folding />
             </state>
           </provider>
@@ -65,20 +51,17 @@
       </file>
       <file leaf-file-name="htm5-means-business-for-ecommerce.html.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="3" selection-start="124" selection-end="124" vertical-scroll-proportion="-4.7619047">
+            <state line="5" column="3" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.eco" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.eco" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/index.html.eco">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="49" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.108949415">
+            <state line="17" column="49" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.7692308">
               <folding />
             </state>
           </provider>
@@ -86,11 +69,8 @@
       </file>
       <file leaf-file-name="technical-reasons-not-to-pic-google-website-optimizer.html.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/posts/technical-reasons-not-to-pic-google-website-optimizer.html.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="0" selection-end="179" vertical-scroll-proportion="-5.714286">
+            <state line="6" column="0" selection-start="0" selection-end="179" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -108,7 +88,7 @@
       <file leaf-file-name="default.html.eco" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="156" column="43" selection-start="7637" selection-end="7637" vertical-scroll-proportion="-18.115385">
+            <state line="156" column="43" selection-start="7637" selection-end="7637" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -117,7 +97,7 @@
       <file leaf-file-name="problems-and-solutions.html.eco" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/problems-and-solutions.html.eco">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="54" selection-end="68" vertical-scroll-proportion="-3.0769231">
+            <state line="4" column="0" selection-start="54" selection-end="68" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -126,7 +106,7 @@
       <file leaf-file-name="why-you-should-work-with-me.html.eco" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/why-you-should-work-with-me.html.eco">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="13" selection-start="558" selection-end="558" vertical-scroll-proportion="-17.692308">
+            <state line="23" column="13" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -155,16 +135,16 @@
         <option value="$PROJECT_DIR$/src/documents/problems-and-solutions.html.eco" />
         <option value="$PROJECT_DIR$/src/documents/why-you-should-work-with-me.html.eco" />
         <option value="$PROJECT_DIR$/src/layouts/default.html.eco" />
-        <option value="$PROJECT_DIR$/src/documents/posts/amazon.html.md" />
         <option value="$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md" />
         <option value="$PROJECT_DIR$/src/documents/index.html.eco" />
+        <option value="$PROJECT_DIR$/src/documents/posts/amazon.html.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="792" />
-    <option name="height" value="1486" />
+    <option name="width" value="1272" />
+    <option name="height" value="1409" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -192,7 +172,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -325,14 +304,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.keymap" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -421,16 +401,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="792" height="1486" extended-state="4" />
+    <frame x="0" y="23" width="1272" height="1409" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923368" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23431595" sideWeight="0.55524343" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Code Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.08851064" sideWeight="0.63670415" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33585858" sideWeight="0.6412777" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3356918" sideWeight="0.6412777" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23431595" sideWeight="0.55898875" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -438,6 +417,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923368" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
@@ -514,23 +494,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/blog.html.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/blog.html.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/atom.xml.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="43" selection-start="516" selection-end="516" vertical-scroll-proportion="-11.538462">
-          <folding />
-        </state>
+        <state line="15" column="43" selection-start="516" selection-end="516" vertical-scroll-proportion="-11.538462" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/styles/skeleton.css">
@@ -556,60 +530,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/problems-and-solutions.html.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="54" selection-end="68" vertical-scroll-proportion="-3.0769231">
+        <state line="4" column="0" selection-start="54" selection-end="68" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/why-you-should-work-with-me.html.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="13" selection-start="558" selection-end="558" vertical-scroll-proportion="-17.692308">
+        <state line="23" column="13" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="156" column="43" selection-start="7637" selection-end="7637" vertical-scroll-proportion="-18.115385">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/posts/amazon.html.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="22" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+        <state line="156" column="43" selection-start="7637" selection-end="7637" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/posts/technical-reasons-not-to-pic-google-website-optimizer.html.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="0" selection-end="179" vertical-scroll-proportion="-5.714286">
+        <state line="6" column="0" selection-start="0" selection-end="179" vertical-scroll-proportion="0.0">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="3" selection-start="124" selection-end="124" vertical-scroll-proportion="-4.7619047">
+        <state line="5" column="3" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/index.html.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="49" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.108949415">
+        <state line="17" column="49" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.7692308">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/documents/posts/amazon.html.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.092521206">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>

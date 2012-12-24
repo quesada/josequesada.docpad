@@ -3,8 +3,7 @@ title: What do we learn from Amazon's success?
 layout: post
 tags: ['amazon','strategy', 'data-science', 'site']
 date: 12/02/2012
-ignored: false
-
+ignored: true
 ---
 
 
