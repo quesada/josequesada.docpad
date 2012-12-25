@@ -110,7 +110,10 @@ docpadConfig = {
             changefreq: 'weekly'
             priority: 0.5
 
+  outPath: '.'
+
 }
+
 
 
 # Export our DocPad Configuration

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7762529-61cf-4beb-84f5-2416580ab975" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docpad.coffee" afterPath="$PROJECT_DIR$/docpad.coffee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/atom.xml" afterPath="$PROJECT_DIR$/out/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md" afterPath="$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/sitemap.xml" afterPath="$PROJECT_DIR$/out/sitemap.xml" />
     </list>
     <ignored path="josequesada.docpad.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,10 +24,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="docpad.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="docpad.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docpad.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="75" selection-start="2539" selection-end="2558" vertical-scroll-proportion="0.0">
+            <state line="112" column="0" selection-start="3755" selection-end="3755" vertical-scroll-proportion="0.9059561">
               <folding />
             </state>
           </provider>
@@ -49,10 +51,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="htm5-means-business-for-ecommerce.html.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="htm5-means-business-for-ecommerce.html.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="41" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0154202">
+            <state line="14" column="0" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -61,7 +63,7 @@
       <file leaf-file-name="index.html.eco" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/index.html.eco">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="49" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.7692308">
+            <state line="17" column="49" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -127,7 +129,6 @@
       <list>
         <option value="$PROJECT_DIR$/out/posts/technical-reasons-not-to-pic-google-website-optimizer.html" />
         <option value="$PROJECT_DIR$/src/documents/styles/layout.css" />
-        <option value="$PROJECT_DIR$/docpad.coffee" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/partials/disqus.html.eco" />
         <option value="$PROJECT_DIR$/src/documents/posts/technical-reasons-not-to-pic-google-website-optimizer.html.md" />
@@ -138,12 +139,13 @@
         <option value="$PROJECT_DIR$/src/documents/index.html.eco" />
         <option value="$PROJECT_DIR$/src/documents/posts/amazon.html.md" />
         <option value="$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md" />
+        <option value="$PROJECT_DIR$/docpad.coffee" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1272" />
+    <option name="width" value="1295" />
     <option name="height" value="1409" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -311,8 +313,8 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.keymap" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -401,7 +403,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1272" height="1409" extended-state="4" />
+    <frame x="0" y="23" width="1295" height="1409" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -409,7 +411,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23431595" sideWeight="0.55524343" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Code Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.08851064" sideWeight="0.63670415" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3356918" sideWeight="0.6412777" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33204633" sideWeight="0.6412777" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23431595" sideWeight="0.55898875" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -514,13 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docpad.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="75" selection-start="2539" selection-end="2558" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/docpad/node_modules/query-engine/out/lib/query-engine.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="469" column="32" selection-start="14598" selection-end="14598" vertical-scroll-proportion="0.0">
@@ -561,7 +556,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/index.html.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="49" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.7692308">
+        <state line="17" column="49" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -578,12 +573,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="41" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0154202">
+        <state line="14" column="0" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docpad.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="0" selection-start="3755" selection-end="3755" vertical-scroll-proportion="0.9059561">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
