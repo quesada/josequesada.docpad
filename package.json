@@ -1,8 +1,8 @@
 {
   "name": "delarre.docpad",
   "version": "0.1.0",
-  "description": "Docpad based website to be hosted at www.delarre.net for my personal blog.",
-  "homepage": "https://github.com/benjamind/delarre.docpad",
+  "description": "Docpad based website to be hosted at www.josequesada.com for my personal blog.",
+  "homepage": "https://github.com/quesada/josequesada.docpad",
   "keywords": [
     "docpad-skeleton",
     "docpad",
@@ -11,19 +11,19 @@
     "twitter bootstrap",
     "blog"
   ],
-  "author": "Ben Delarre <ben@delarre.net> (http://delarre.net)",
+  "author": "Jose Quesada <me@josequesada.com> (josequesada.com)",
   "maintainers": [
-    "Ben Delarre <ben@delarre.net> (http://delarre.net)"
+    "Jose Quesada <me@josequesada.com> (josequesada.com)"
   ],
   "contributors": [
-    "Ben Delarre <ben@delarre.net> (http://delarre.net)"
+    "Jose Quesada <me@josequesada.com> (josequesada.com)"
   ],
   "bugs": {
-    "url": "https://github.com/benjamind/delarre.docpad/issues"
+    "url": "https://github.com/quesada/josequesada.docpad/issues"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/benjamind/delarre.docpad.git"
+    "url": "https://github.com/quesada/josequesada.docpad.git"
   },
   "engines": {
     "node": "0.8.x",

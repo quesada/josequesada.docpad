@@ -326,6 +326,9 @@ Signs that it’s time to pay attention to HTML5: Effective August 1, 2011, Goog
         </div>
     </div>
 </footer>
-
+<script  src="/socket.io/socket.io.js"></script><script >var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});</script>
 </body>
 </html>

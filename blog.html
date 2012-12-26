@@ -446,6 +446,9 @@ to muck with your code, look somewhere else. For more reviews, see
         </div>
     </div>
 </footer>
-
+<script  src="/socket.io/socket.io.js"></script><script >var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});</script>
 </body>
 </html>

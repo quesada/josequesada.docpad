@@ -270,6 +270,9 @@ mixpanel.init("3fcbcafa555fc23a2d9863437ee2af0d");</script><!-- end Mixpanel -->
         </div>
     </div>
 </footer>
-
+<script  src="/socket.io/socket.io.js"></script><script >var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});</script>
 </body>
 </html>
