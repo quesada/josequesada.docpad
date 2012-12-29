@@ -2,9 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7762529-61cf-4beb-84f5-2416580ab975" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json.ben" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/test-parser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/test-tokenizer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Release/.deps/Release/bufferutil.node.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil.node.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/bufferutil.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/validation.node.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/validation/src/validation.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Release/.deps/Release/validation.node.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Release/bufferutil.node" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Release/linker.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Release/obj.target/bufferutil.node" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Release/obj.target/bufferutil/src/bufferutil.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Release/obj.target/validation.node" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Release/obj.target/validation/src/validation.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Release/validation.node" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/binding.Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/bufferutil.target.mk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/config.gypi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/validation.target.mk" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atom.xml" afterPath="$PROJECT_DIR$/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/History.md" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/History.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/README.md" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/benchmark.html" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/benchmark.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/options/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/options/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/tinycolor/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/tinycolor/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/node_modules/socket.io/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/out/livereload.plugin.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/out/livereload.plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-livereload/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/HISTORY.md" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/HISTORY.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/action_container.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/action_container.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/argument/error.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/argument/error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/argument_parser.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/argument_parser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/test/base.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/test/base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/test/choices.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/test/choices.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/test/parents.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/test/parents.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/test/sub_commands.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/test/sub_commands.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="$PROJECT_DIR$/sitemap.xml" />
     </list>
     <ignored path="josequesada.docpad.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,19 +99,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.eco" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/documents/index.html.eco">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="0" selection-start="343" selection-end="2595" vertical-scroll-proportion="-0.30769232">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="61" selection-start="753" selection-end="753" vertical-scroll-proportion="0.362776">
+            <state line="25" column="61" selection-start="753" selection-end="753" vertical-scroll-proportion="0.24127465">
               <folding />
             </state>
           </provider>
@@ -90,24 +121,6 @@
         <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
           <provider selected="true" editor-type-id="text-editor">
             <state line="156" column="43" selection-start="7637" selection-end="7637" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="problems-and-solutions.html.eco" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/documents/problems-and-solutions.html.eco">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="54" selection-end="68" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="why-you-should-work-with-me.html.eco" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/documents/why-you-should-work-with-me.html.eco">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="0" selection-start="4087" selection-end="4087" vertical-scroll-proportion="7.6923075">
               <folding />
             </state>
           </provider>
@@ -144,7 +157,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1763" />
+    <option name="width" value="1272" />
     <option name="height" value="1409" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -200,8 +213,8 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.keymap" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -290,15 +303,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1763" height="1409" extended-state="4" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1272" height="1409" extended-state="4" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23431595" sideWeight="0.55524343" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Code Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.08851064" sideWeight="0.63670415" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24220079" sideWeight="0.6412777" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24213837" sideWeight="0.6412777" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23431595" sideWeight="0.55898875" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -366,17 +379,42 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/partials/disqus.html.eco">
+    <entry file="file://$PROJECT_DIR$/src/documents/posts/amazon.html.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="31" selection-start="175" selection-end="175" vertical-scroll-proportion="-2.3076923" />
+        <state line="6" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="61" selection-start="753" selection-end="753" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/documents/posts/technical-reasons-not-to-pic-google-website-optimizer.html.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="0" selection-end="179" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="43" selection-start="7637" selection-end="7637" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/blog.html.eco">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/blog.html.eco">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
@@ -388,28 +426,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/styles/skeleton.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="32" selection-start="3801" selection-end="3805" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="83" column="32" selection-start="3801" selection-end="3805" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/docpad/node_modules/query-engine/out/lib/query-engine.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="469" column="32" selection-start="14598" selection-end="14598" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/problems-and-solutions.html.eco">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="54" selection-end="68" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/why-you-should-work-with-me.html.eco">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="0" selection-start="4087" selection-end="4087" vertical-scroll-proportion="7.6923075">
           <folding />
         </state>
       </provider>
@@ -422,33 +444,33 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/posts/technical-reasons-not-to-pic-google-website-optimizer.html.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="0" selection-end="179" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/documents/posts/amazon.html.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/posts/amazon.html.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="0" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docpad.coffee">
@@ -463,16 +485,9 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/index.html.eco">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="343" selection-end="2595" vertical-scroll-proportion="-0.30769232">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="61" selection-start="753" selection-end="753" vertical-scroll-proportion="0.362776">
+        <state line="25" column="61" selection-start="753" selection-end="753" vertical-scroll-proportion="0.24127465">
           <folding />
         </state>
       </provider>

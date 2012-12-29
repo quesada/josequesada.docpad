@@ -42,7 +42,8 @@
     "docpad-plugin-highlightjs": "~2.1.1",
     "docpad-plugin-related": "*",
     "docpad-plugin-paged": "*",
-    "docpad-plugin-uglify": "~1.0.0"
+    "docpad-plugin-uglify": "~1.0.0",
+    "docpad-plugin-services": "~2.0.0"
   },
   "devDependencies": {
     "docpad-plugin-livereload": "2.x"
