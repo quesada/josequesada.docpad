@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7762529-61cf-4beb-84f5-2416580ab975" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atom.xml" afterPath="$PROJECT_DIR$/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docpad.coffee" afterPath="$PROJECT_DIR$/docpad.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/htm5-means-business-for-ecommerce.html" afterPath="$PROJECT_DIR$/posts/htm5-means-business-for-ecommerce.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/technical-reasons-not-to-pic-google-website-optimizer.html" afterPath="$PROJECT_DIR$/posts/technical-reasons-not-to-pic-google-website-optimizer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problems-and-solutions.html" afterPath="$PROJECT_DIR$/problems-and-solutions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="$PROJECT_DIR$/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/layouts/default.html.eco" afterPath="$PROJECT_DIR$/src/layouts/default.html.eco" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/why-you-should-work-with-me.html" afterPath="$PROJECT_DIR$/why-you-should-work-with-me.html" />
-    </list>
+    <list default="true" id="d7762529-61cf-4beb-84f5-2416580ab975" name="Default" comment="" />
     <ignored path="josequesada.docpad.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,10 +55,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="36" selection-start="1297" selection-end="1297" vertical-scroll-proportion="0.5295903">
+            <state line="44" column="36" selection-start="1297" selection-end="1297" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -86,10 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html.eco" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="default.html.eco" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="29" selection-start="2410" selection-end="2410" vertical-scroll-proportion="-43.076923">
+            <state line="76" column="0" selection-start="4156" selection-end="4156" vertical-scroll-proportion="0.9690403">
               <folding />
             </state>
           </provider>
@@ -490,13 +477,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="29" selection-start="2410" selection-end="2410" vertical-scroll-proportion="-43.076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docpad.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="0" selection-start="1153" selection-end="1153" vertical-scroll-proportion="-290.0">
@@ -506,7 +486,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="36" selection-start="1297" selection-end="1297" vertical-scroll-proportion="0.5295903">
+        <state line="44" column="36" selection-start="1297" selection-end="1297" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="0" selection-start="4156" selection-end="4156" vertical-scroll-proportion="0.9690403">
           <folding />
         </state>
       </provider>

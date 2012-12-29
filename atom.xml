@@ -3,7 +3,7 @@
     <title>Jose quesada: E-commerce database marketing</title>
     <link href="http://josequesada.com/atom.xml" rel="self"/>
     <link href="http://josequesada.com"/>
-    <updated>2012-12-29T12:27:47.576Z</updated>
+    <updated>2012-12-29T15:31:10.618Z</updated>
     <id>http://josequesada.com</id>
     <author>
         <name>Jose Quesada</name>
@@ -55,6 +55,17 @@
     &lt;link rel=&quot;stylesheet&quot; href=&quot;/styles/font-awesome.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;/styles/github.css&quot; /&gt;
 
+
+    &lt;!--Start of Zopim Live Chat Script--&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+        window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+                d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+                _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+            $.src='//cdn.zopim.com/?tHClqfAYcm1uy3yA5st8fxBAwZzDFM1a';z.t=+new Date;$.
+                    type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+    &lt;/script&gt;
+    &lt;!--End of Zopim Live Chat Script--&gt;
+
     &lt;!-- convertable contact forms with analytics --&gt;
     &lt;script type=&quot;text/javascript&quot;&gt;
         var trackerID = &quot;3a39856ed90784117b180fecb5102e79&quot;; // account identifier
@@ -80,6 +91,9 @@
     &lt;!-- start Mixpanel --&gt;&lt;script type=&quot;text/javascript&quot;&gt;(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement(&quot;script&quot;);a.type=&quot;text/javascript&quot;;a.async=!0;a.src=(&quot;https:&quot;===e.location.protocol?&quot;https:&quot;:&quot;http:&quot;)+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName(&quot;script&quot;)[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(&quot;.&quot;);2==a.length&amp;&amp;(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;&quot;undefined&quot;!==
         typeof d?c=b[d]=[]:d=&quot;mixpanel&quot;;c.people=c.people||[];c.toString=function(b){var a=&quot;mixpanel&quot;;&quot;mixpanel&quot;!==d&amp;&amp;(a+=&quot;.&quot;+d);b||(a+=&quot; (stub)&quot;);return a};c.people.toString=function(){return c.toString(1)+&quot;.people (stub)&quot;};i=&quot;disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge&quot;.split(&quot; &quot;);for(g=0;g&lt;i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
 mixpanel.init(&quot;3fcbcafa555fc23a2d9863437ee2af0d&quot;);&lt;/script&gt;&lt;!-- end Mixpanel --&gt;
+
+
+
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -364,35 +378,7 @@ socket.on('regenerated',function(){
 	var s = document.getElementsByTagName('script')[0];
 	s.parentNode.insertBefore(t,s);
 }
-})();&lt;/script&gt;&lt;script &gt;var _gauges = _gauges || [];
-(function() {
-	var t   = document.createElement('script');
-	t.type  = 'text/javascript';
-	t.async = true;
-	t.id    = 'gauges-tracker';
-	t.setAttribute('data-site-id', 'gauges-id');
-	t.src = '//secure.gaug.es/track.js';
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t, s);
-})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'googleAnalytics-id']);
-_gaq.push(['_trackPageview']);
-(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;&lt;script &gt;(function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement(&quot;script&quot;);b.type=&quot;text/javascript&quot;;b.async=!0;b.src=(&quot;https:&quot;===c.location.protocol?&quot;https:&quot;:&quot;http:&quot;)+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';d=c.getElementsByTagName(&quot;script&quot;)[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(&quot;.&quot;);2==c.length&amp;&amp;(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;&quot;undefined&quot;!==typeof f?g=a[f]=[]:f=&quot;mixpanel&quot;;g.people=g.people||[];h=['disable','track','track_pageview','track_links','track_forms','register','register_once','unregister','identify','alias','name_tag','set_config','people.set','people.increment'];for(e=0;e&lt;h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;})(document,window.mixpanel||[]);mixpanel.init(&quot;mixpanel-id&quot;);&lt;/script&gt;&lt;script &gt;// Add the depedency if it doesn't already exist
-if ( typeof io === 'undefined' ) {
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = true;
-	t.src = '//include.reinvigorate.net/re_.js';
-	t.onload = function(){
-		reinvigorate.track(&quot;reinvigorate-id&quot;);
-	};
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t,s);
-}&lt;/script&gt;&lt;script &gt;window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set._.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');$.src='//cdn.zopim.com/?zopim-id';z.t=+new Date;$.type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');&lt;/script&gt;
+})();&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
         </entry>
@@ -441,6 +427,17 @@ if ( typeof io === 'undefined' ) {
     &lt;link rel=&quot;stylesheet&quot; href=&quot;/styles/font-awesome.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;/styles/github.css&quot; /&gt;
 
+
+    &lt;!--Start of Zopim Live Chat Script--&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+        window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+                d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+                _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+            $.src='//cdn.zopim.com/?tHClqfAYcm1uy3yA5st8fxBAwZzDFM1a';z.t=+new Date;$.
+                    type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+    &lt;/script&gt;
+    &lt;!--End of Zopim Live Chat Script--&gt;
+
     &lt;!-- convertable contact forms with analytics --&gt;
     &lt;script type=&quot;text/javascript&quot;&gt;
         var trackerID = &quot;3a39856ed90784117b180fecb5102e79&quot;; // account identifier
@@ -466,6 +463,9 @@ if ( typeof io === 'undefined' ) {
     &lt;!-- start Mixpanel --&gt;&lt;script type=&quot;text/javascript&quot;&gt;(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement(&quot;script&quot;);a.type=&quot;text/javascript&quot;;a.async=!0;a.src=(&quot;https:&quot;===e.location.protocol?&quot;https:&quot;:&quot;http:&quot;)+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName(&quot;script&quot;)[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(&quot;.&quot;);2==a.length&amp;&amp;(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;&quot;undefined&quot;!==
         typeof d?c=b[d]=[]:d=&quot;mixpanel&quot;;c.people=c.people||[];c.toString=function(b){var a=&quot;mixpanel&quot;;&quot;mixpanel&quot;!==d&amp;&amp;(a+=&quot;.&quot;+d);b||(a+=&quot; (stub)&quot;);return a};c.people.toString=function(){return c.toString(1)+&quot;.people (stub)&quot;};i=&quot;disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge&quot;.split(&quot; &quot;);for(g=0;g&lt;i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
 mixpanel.init(&quot;3fcbcafa555fc23a2d9863437ee2af0d&quot;);&lt;/script&gt;&lt;!-- end Mixpanel --&gt;
+
+
+
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -857,35 +857,7 @@ socket.on('regenerated',function(){
 	var s = document.getElementsByTagName('script')[0];
 	s.parentNode.insertBefore(t,s);
 }
-})();&lt;/script&gt;&lt;script &gt;var _gauges = _gauges || [];
-(function() {
-	var t   = document.createElement('script');
-	t.type  = 'text/javascript';
-	t.async = true;
-	t.id    = 'gauges-tracker';
-	t.setAttribute('data-site-id', 'gauges-id');
-	t.src = '//secure.gaug.es/track.js';
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t, s);
-})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'googleAnalytics-id']);
-_gaq.push(['_trackPageview']);
-(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;&lt;script &gt;(function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement(&quot;script&quot;);b.type=&quot;text/javascript&quot;;b.async=!0;b.src=(&quot;https:&quot;===c.location.protocol?&quot;https:&quot;:&quot;http:&quot;)+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';d=c.getElementsByTagName(&quot;script&quot;)[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(&quot;.&quot;);2==c.length&amp;&amp;(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;&quot;undefined&quot;!==typeof f?g=a[f]=[]:f=&quot;mixpanel&quot;;g.people=g.people||[];h=['disable','track','track_pageview','track_links','track_forms','register','register_once','unregister','identify','alias','name_tag','set_config','people.set','people.increment'];for(e=0;e&lt;h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;})(document,window.mixpanel||[]);mixpanel.init(&quot;mixpanel-id&quot;);&lt;/script&gt;&lt;script &gt;// Add the depedency if it doesn't already exist
-if ( typeof io === 'undefined' ) {
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = true;
-	t.src = '//include.reinvigorate.net/re_.js';
-	t.onload = function(){
-		reinvigorate.track(&quot;reinvigorate-id&quot;);
-	};
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t,s);
-}&lt;/script&gt;&lt;script &gt;window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set._.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');$.src='//cdn.zopim.com/?zopim-id';z.t=+new Date;$.type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');&lt;/script&gt;
+})();&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
         </entry>
