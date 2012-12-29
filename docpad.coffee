@@ -7,37 +7,33 @@ docpadConfig = {
 	# =================================
 	# Template Data
 	# These are variables that will be accessible via our templates
-	# To access one of these within our templates, refer to the FAQ: https://github.com/bevry/docpad/wiki/FAQ
+# To access one of these within our templates, refer to the FAQ: https://github.com/bevry/docpad/wiki/FAQ
 
-	templateData:
+templateData: # Specify some site properties
+  site:
+    title: "Jose quesada: E-commerce database marketing"
+    url: "http://josequesada.com"
 
-		# Specify some site properties
-		site:
-            title: "Jose quesada: E-commerce database marketing"
-            url: "http://josequesada.com"
+    url: "http://josequesada.com"
+    author: "Jose Quesada"
+    email: "me@josequesada.com"
+    description: """
+                 Website of Jose Quesada.
+                 """
+    keywords: """
+              quesada, jose quesada, R, semantic web, semantic analysis, predictive models, statistics, machine learning, marketing, psychographics, cognitive science, database marketing
+              """
+    analytics: #reinvigorate: "52uel-236r9p108l"
+      google: "UA-36430477-1"
+    #gauges: "5077ae93f5a1f5067b000028"
 
-            url: "http://josequesada.com"
-            author: "Jose Quesada"
-            email: "me@josequesada.com"
-            description: """
-                Website of Jose Quesada.
-                """
-            keywords: """
-                quesada, jose quesada, R, semantic web, semantic analysis, predictive models, statistics, machine learning, marketing, psychographics, cognitive science, database marketing
-                """
-            analytics:
-                #reinvigorate: "52uel-236r9p108l"
-                google: "UA-36430477-1"
-                #gauges: "5077ae93f5a1f5067b000028"
+    # The website author's name
+    author: "Jose Quesada"
 
-             # The website author's name
-            author: "Jose Quesada"
+    # The website author's email
+    email: "me@josequesada.com"
 
-            # The website author's email
-            email: "me@josequesada.com"
-
-
-		# -----------------------------
+  # -----------------------------
 		# Helper Functions
 
 		# Get the prepared site/document title

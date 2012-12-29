@@ -3,7 +3,7 @@
     <title>Jose quesada: E-commerce database marketing</title>
     <link href="http://josequesada.com/atom.xml" rel="self"/>
     <link href="http://josequesada.com"/>
-    <updated>2012-12-29T11:49:57.920Z</updated>
+    <updated>2012-12-29T12:27:47.576Z</updated>
     <id>http://josequesada.com</id>
     <author>
         <name>Jose Quesada</name>
@@ -344,10 +344,55 @@ Signs that it’s time to pay attention to HTML5: Effective August 1, 2011, Goog
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/footer&gt;
-&lt;script  src=&quot;/socket.io/socket.io.js&quot;&gt;&lt;/script&gt;&lt;script &gt;var socket = io.connect('/docpad-live-reload');
+&lt;script &gt;(function(){
+	// Add the depedency if it doesn't already exist
+if ( typeof io === 'undefined' ) {
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = function(){
+
+// Listen for the regenerated event
+// and perform a reload of the page when the event occurs
+var socket = io.connect('/docpad-live-reload');
 socket.on('regenerated',function(){
 	document.location.reload();
-});&lt;/script&gt;
+});
+
+	};
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+}
+})();&lt;/script&gt;&lt;script &gt;var _gauges = _gauges || [];
+(function() {
+	var t   = document.createElement('script');
+	t.type  = 'text/javascript';
+	t.async = true;
+	t.id    = 'gauges-tracker';
+	t.setAttribute('data-site-id', 'gauges-id');
+	t.src = '//secure.gaug.es/track.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'googleAnalytics-id']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();&lt;/script&gt;&lt;script &gt;(function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement(&quot;script&quot;);b.type=&quot;text/javascript&quot;;b.async=!0;b.src=(&quot;https:&quot;===c.location.protocol?&quot;https:&quot;:&quot;http:&quot;)+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';d=c.getElementsByTagName(&quot;script&quot;)[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(&quot;.&quot;);2==c.length&amp;&amp;(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;&quot;undefined&quot;!==typeof f?g=a[f]=[]:f=&quot;mixpanel&quot;;g.people=g.people||[];h=['disable','track','track_pageview','track_links','track_forms','register','register_once','unregister','identify','alias','name_tag','set_config','people.set','people.increment'];for(e=0;e&lt;h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;})(document,window.mixpanel||[]);mixpanel.init(&quot;mixpanel-id&quot;);&lt;/script&gt;&lt;script &gt;// Add the depedency if it doesn't already exist
+if ( typeof io === 'undefined' ) {
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '//include.reinvigorate.net/re_.js';
+	t.onload = function(){
+		reinvigorate.track(&quot;reinvigorate-id&quot;);
+	};
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+}&lt;/script&gt;&lt;script &gt;window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set._.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');$.src='//cdn.zopim.com/?zopim-id';z.t=+new Date;$.type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
         </entry>
@@ -792,10 +837,55 @@ to muck with your code, look somewhere else. For more reviews, see
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/footer&gt;
-&lt;script  src=&quot;/socket.io/socket.io.js&quot;&gt;&lt;/script&gt;&lt;script &gt;var socket = io.connect('/docpad-live-reload');
+&lt;script &gt;(function(){
+	// Add the depedency if it doesn't already exist
+if ( typeof io === 'undefined' ) {
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = function(){
+
+// Listen for the regenerated event
+// and perform a reload of the page when the event occurs
+var socket = io.connect('/docpad-live-reload');
 socket.on('regenerated',function(){
 	document.location.reload();
-});&lt;/script&gt;
+});
+
+	};
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+}
+})();&lt;/script&gt;&lt;script &gt;var _gauges = _gauges || [];
+(function() {
+	var t   = document.createElement('script');
+	t.type  = 'text/javascript';
+	t.async = true;
+	t.id    = 'gauges-tracker';
+	t.setAttribute('data-site-id', 'gauges-id');
+	t.src = '//secure.gaug.es/track.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'googleAnalytics-id']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();&lt;/script&gt;&lt;script &gt;(function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement(&quot;script&quot;);b.type=&quot;text/javascript&quot;;b.async=!0;b.src=(&quot;https:&quot;===c.location.protocol?&quot;https:&quot;:&quot;http:&quot;)+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';d=c.getElementsByTagName(&quot;script&quot;)[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(&quot;.&quot;);2==c.length&amp;&amp;(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;&quot;undefined&quot;!==typeof f?g=a[f]=[]:f=&quot;mixpanel&quot;;g.people=g.people||[];h=['disable','track','track_pageview','track_links','track_forms','register','register_once','unregister','identify','alias','name_tag','set_config','people.set','people.increment'];for(e=0;e&lt;h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;})(document,window.mixpanel||[]);mixpanel.init(&quot;mixpanel-id&quot;);&lt;/script&gt;&lt;script &gt;// Add the depedency if it doesn't already exist
+if ( typeof io === 'undefined' ) {
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '//include.reinvigorate.net/re_.js';
+	t.onload = function(){
+		reinvigorate.track(&quot;reinvigorate-id&quot;);
+	};
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+}&lt;/script&gt;&lt;script &gt;window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set._.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');$.src='//cdn.zopim.com/?zopim-id';z.t=+new Date;$.type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
         </entry>
