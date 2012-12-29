@@ -484,9 +484,21 @@ footer .right .mixpanel{
 }
 
 /* page */
-
 .page-body {
     margin: 50px auto;
+}
+
+.rss-cta {
+    margin: 50px auto;
+}
+
+.follow-me-twitter {
+    position: relative;
+    padding: 15px 0;
+    border: 1px dashed #9b9b9b;
+    border-right: none;
+    border-left: none;
+    margin: 40px auto;
 }
 
 /* #Media Queries

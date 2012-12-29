@@ -3,7 +3,7 @@
     <title>Jose quesada: E-commerce database marketing</title>
     <link href="http://josequesada.com/atom.xml" rel="self"/>
     <link href="http://josequesada.com"/>
-    <updated>2012-12-29T15:32:29.707Z</updated>
+    <updated>2012-12-29T16:28:42.879Z</updated>
     <id>http://josequesada.com</id>
     <author>
         <name>Jose Quesada</name>
@@ -72,9 +72,14 @@
         document.write(&quot;&lt;script type=\&quot;text/JavaScript\&quot; src=\&quot;http://convertable.com/admin/script.js\&quot;&gt;&lt;/&quot;+&quot;script&gt;&quot;);
     &lt;/script&gt;
 
-    &lt;!-- google analytics --&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;
+    &lt;!-- analytics.js  --&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+    var analytics=analytics||[];analytics.load=function(e){var t=document.createElement(&quot;script&quot;);t.type=&quot;text/javascript&quot;,t.async=!0,t.src=(&quot;https:&quot;===document.location.protocol?&quot;https://&quot;:&quot;http://&quot;)+&quot;d2dq2ahtl5zl1z.cloudfront.net&quot;+&quot;/analytics.js/v1/&quot;+e+&quot;/analytics.min.js&quot;;var n=document.getElementsByTagName(&quot;script&quot;)[0];n.parentNode.insertBefore(t,n);var r=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}},s=[&quot;identify&quot;,&quot;track&quot;];for(var i=0;i&lt;s.length;i++)analytics[s[i]]=r(s[i])},
+    analytics.load(&quot;fxpif23&quot;);
+    &lt;/script&gt;
+    &lt;!-- end analytics.js --&gt;
 
+
+    &lt;!-- google analytics --&gt;&lt;script type=&quot;text/javascript&quot;&gt;
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', &quot;UA-36430477-1&quot;]);
         _gaq.push(['_setDomainName', 'josequesada.com']);
@@ -202,6 +207,12 @@ Signs that it’s time to pay attention to HTML5: Effective August 1, 2011, Goog
     &lt;div class=&quot;one-third&quot;&gt;
         
 
+        &lt;div class=&quot;follow-me-twitter&quot;&gt;
+            If you read this far, you should follow &lt;a href=&quot;../atom.xml&quot;&gt;my RSS feed here&lt;/a&gt;,
+            or on twitter &lt;a href=&quot;https://twitter.com/quesada&quot;&gt;here&lt;/a&gt;.
+        &lt;/div&gt;
+
+
         &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -250,8 +261,11 @@ Signs that it’s time to pay attention to HTML5: Effective August 1, 2011, Goog
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;div&gt;&lt;iframe class=&quot;clarity-widget&quot; data-c-id=&quot;6261&quot; frameborder=&quot;0&quot; style=&quot;border: 0; height: 0&quot;&gt;&lt;/iframe&gt;
+    &lt;script src=&quot;https://clarity.fm/assets/widget_loader.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
 
-&lt;!-- TODO: add CTA: follow me on twitter, subscribe to my newsletter, etc --&gt;
+&lt;!-- end comments --&gt;
 
 &lt;!-- TODO, get this into partials --&gt;
 &lt;!-- start of footer --&gt;
@@ -358,7 +372,27 @@ Signs that it’s time to pay attention to HTML5: Effective August 1, 2011, Goog
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/footer&gt;
+&lt;script &gt;(function(){
+	// Add the depedency if it doesn't already exist
+if ( typeof io === 'undefined' ) {
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = function(){
 
+// Listen for the regenerated event
+// and perform a reload of the page when the event occurs
+var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});
+
+	};
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+}
+})();&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
         </entry>
@@ -424,9 +458,14 @@ Signs that it’s time to pay attention to HTML5: Effective August 1, 2011, Goog
         document.write(&quot;&lt;script type=\&quot;text/JavaScript\&quot; src=\&quot;http://convertable.com/admin/script.js\&quot;&gt;&lt;/&quot;+&quot;script&gt;&quot;);
     &lt;/script&gt;
 
-    &lt;!-- google analytics --&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;
+    &lt;!-- analytics.js  --&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+    var analytics=analytics||[];analytics.load=function(e){var t=document.createElement(&quot;script&quot;);t.type=&quot;text/javascript&quot;,t.async=!0,t.src=(&quot;https:&quot;===document.location.protocol?&quot;https://&quot;:&quot;http://&quot;)+&quot;d2dq2ahtl5zl1z.cloudfront.net&quot;+&quot;/analytics.js/v1/&quot;+e+&quot;/analytics.min.js&quot;;var n=document.getElementsByTagName(&quot;script&quot;)[0];n.parentNode.insertBefore(t,n);var r=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}},s=[&quot;identify&quot;,&quot;track&quot;];for(var i=0;i&lt;s.length;i++)analytics[s[i]]=r(s[i])},
+    analytics.load(&quot;fxpif23&quot;);
+    &lt;/script&gt;
+    &lt;!-- end analytics.js --&gt;
 
+
+    &lt;!-- google analytics --&gt;&lt;script type=&quot;text/javascript&quot;&gt;
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', &quot;UA-36430477-1&quot;]);
         _gaq.push(['_setDomainName', 'josequesada.com']);
@@ -661,6 +700,12 @@ to muck with your code, look somewhere else. For more reviews, see
     &lt;div class=&quot;one-third&quot;&gt;
         
 
+        &lt;div class=&quot;follow-me-twitter&quot;&gt;
+            If you read this far, you should follow &lt;a href=&quot;../atom.xml&quot;&gt;my RSS feed here&lt;/a&gt;,
+            or on twitter &lt;a href=&quot;https://twitter.com/quesada&quot;&gt;here&lt;/a&gt;.
+        &lt;/div&gt;
+
+
         &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -709,8 +754,11 @@ to muck with your code, look somewhere else. For more reviews, see
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;div&gt;&lt;iframe class=&quot;clarity-widget&quot; data-c-id=&quot;6261&quot; frameborder=&quot;0&quot; style=&quot;border: 0; height: 0&quot;&gt;&lt;/iframe&gt;
+    &lt;script src=&quot;https://clarity.fm/assets/widget_loader.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
 
-&lt;!-- TODO: add CTA: follow me on twitter, subscribe to my newsletter, etc --&gt;
+&lt;!-- end comments --&gt;
 
 &lt;!-- TODO, get this into partials --&gt;
 &lt;!-- start of footer --&gt;
@@ -817,7 +865,27 @@ to muck with your code, look somewhere else. For more reviews, see
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/footer&gt;
+&lt;script &gt;(function(){
+	// Add the depedency if it doesn't already exist
+if ( typeof io === 'undefined' ) {
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = function(){
 
+// Listen for the regenerated event
+// and perform a reload of the page when the event occurs
+var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});
+
+	};
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+}
+})();&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
         </entry>

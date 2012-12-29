@@ -54,9 +54,14 @@
         document.write("<script type=\"text/JavaScript\" src=\"http://convertable.com/admin/script.js\"></"+"script>");
     </script>
 
-    <!-- google analytics -->
-    <script type="text/javascript">
+    <!-- analytics.js  --><script type="text/javascript">
+    var analytics=analytics||[];analytics.load=function(e){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net"+"/analytics.js/v1/"+e+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);var r=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}},s=["identify","track"];for(var i=0;i<s.length;i++)analytics[s[i]]=r(s[i])},
+    analytics.load("fxpif23");
+    </script>
+    <!-- end analytics.js -->
 
+
+    <!-- google analytics --><script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', "UA-36430477-1"]);
         _gaq.push(['_setDomainName', 'josequesada.com']);
@@ -342,6 +347,26 @@ mixpanel.init("3fcbcafa555fc23a2d9863437ee2af0d");</script><!-- end Mixpanel -->
         </div>
     </div>
 </footer>
+<script >(function(){
+	// Add the depedency if it doesn't already exist
+if ( typeof io === 'undefined' ) {
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = function(){
 
+// Listen for the regenerated event
+// and perform a reload of the page when the event occurs
+var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});
+
+	};
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+}
+})();</script>
 </body>
 </html>
