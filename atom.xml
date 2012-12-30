@@ -3,7 +3,7 @@
     <title>Jose quesada: E-commerce database marketing</title>
     <link href="http://josequesada.com/atom.xml" rel="self"/>
     <link href="http://josequesada.com"/>
-    <updated>2012-12-30T11:24:03.211Z</updated>
+    <updated>2012-12-30T11:48:05.259Z</updated>
     <id>http://josequesada.com</id>
     <author>
         <name>Jose Quesada</name>
@@ -363,27 +363,7 @@ Signs that it’s time to pay attention to HTML5: Effective August 1, 2011, Goog
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/footer&gt;
-&lt;script &gt;(function(){
-	// Add the depedency if it doesn't already exist
-if ( typeof io === 'undefined' ) {
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = true;
-	t.src = '/socket.io/socket.io.js';
-	t.onload = function(){
 
-// Listen for the regenerated event
-// and perform a reload of the page when the event occurs
-var socket = io.connect('/docpad-live-reload');
-socket.on('regenerated',function(){
-	document.location.reload();
-});
-
-	};
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t,s);
-}
-})();&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
         </entry>
@@ -847,27 +827,7 @@ to muck with your code, look somewhere else. For more reviews, see
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/footer&gt;
-&lt;script &gt;(function(){
-	// Add the depedency if it doesn't already exist
-if ( typeof io === 'undefined' ) {
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = true;
-	t.src = '/socket.io/socket.io.js';
-	t.onload = function(){
 
-// Listen for the regenerated event
-// and perform a reload of the page when the event occurs
-var socket = io.connect('/docpad-live-reload');
-socket.on('regenerated',function(){
-	document.location.reload();
-});
-
-	};
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t,s);
-}
-})();&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
         </entry>
