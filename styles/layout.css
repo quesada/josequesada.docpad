@@ -382,6 +382,8 @@ footer h2{
 .about img.thumb{
     float: left;
     margin-right: 20px;
+    border: 5px solid #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 .about div{
     overflow: hidden;
@@ -395,30 +397,16 @@ footer h2{
     font-size: 13px;
     text-shadow: 0 1px 0 #111a1f;
 }
-.blog ul li, .accordion-plain ul li{
-    margin: 0;
-    border-bottom: 1px dashed #0f161a;
-    border-top: 1px dashed #37515e;
-    padding: 5px 0;;
+
+.about a:hover{
+    text-decoration-line: underline;
+    -moz-text-blink: none;
+    -moz-text-decoration-color: -moz-use-text-color;
+    -moz-text-decoration-line: underline;
+    -moz-text-decoration-style: solid;
 }
-.blog p, .accordion-plain p{
-    color: #3B464B;
-    font-size: 15px;
-    /*text-shadow: 0 1px 0 #111a1f;*/
-    margin-bottom: 15px;
-}
-.blog small, .accordion-plain small{
-    color: #667983;
-    text-shadow: 0 1px 0 #111a1f;
-}
-.blog ul li:first-child, .accordion-plain ul li:first-child{
-    border-top: none;
-    padding-top: 0;
-}
-.blog ul li:last-child, .accordion-plain ul li:last-child{
-    border-bottom: none;
-    padding-bottom: 0;
-}
+
+
 a.dark-more{
     display: inline-block;
     padding: 5px 15px;

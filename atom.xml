@@ -3,7 +3,7 @@
     <title>Jose quesada: E-commerce database marketing</title>
     <link href="http://josequesada.com/atom.xml" rel="self"/>
     <link href="http://josequesada.com"/>
-    <updated>2012-12-30T11:03:07.142Z</updated>
+    <updated>2012-12-30T11:24:03.211Z</updated>
     <id>http://josequesada.com</id>
     <author>
         <name>Jose Quesada</name>
@@ -345,7 +345,7 @@ Signs that it’s time to pay attention to HTML5: Effective August 1, 2011, Goog
                     
                 &lt;/ul&gt;
             &lt;/nav&gt;
-            &lt;a href=&quot;blog&quot; class=&quot;dark-more&quot;&gt;view more&lt;/a&gt;
+            &lt;a href=&quot;blog.html&quot; class=&quot;dark-more&quot;&gt;view more&lt;/a&gt;
         &lt;/div&gt;
 &lt;/footer&gt;
 
@@ -829,7 +829,7 @@ to muck with your code, look somewhere else. For more reviews, see
                     
                 &lt;/ul&gt;
             &lt;/nav&gt;
-            &lt;a href=&quot;blog&quot; class=&quot;dark-more&quot;&gt;view more&lt;/a&gt;
+            &lt;a href=&quot;blog.html&quot; class=&quot;dark-more&quot;&gt;view more&lt;/a&gt;
         &lt;/div&gt;
 &lt;/footer&gt;
 
