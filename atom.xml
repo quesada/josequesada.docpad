@@ -3,7 +3,7 @@
     <title>Jose quesada: E-commerce database marketing</title>
     <link href="http://josequesada.com/atom.xml" rel="self"/>
     <link href="http://josequesada.com"/>
-    <updated>2012-12-29T17:44:53.338Z</updated>
+    <updated>2012-12-30T11:03:07.142Z</updated>
     <id>http://josequesada.com</id>
     <author>
         <name>Jose Quesada</name>
@@ -66,11 +66,6 @@
     &lt;/script&gt;
     &lt;!--End of Zopim Live Chat Script--&gt;
 
-    &lt;!-- convertable contact forms with analytics --&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;
-        var trackerID = &quot;3a39856ed90784117b180fecb5102e79&quot;; // account identifier
-        document.write(&quot;&lt;script type=\&quot;text/JavaScript\&quot; src=\&quot;http://convertable.com/admin/script.js\&quot;&gt;&lt;/&quot;+&quot;script&gt;&quot;);
-    &lt;/script&gt;
 
     &lt;!-- analytics.js  --&gt;&lt;script type=&quot;text/javascript&quot;&gt;
     var analytics=analytics||[];analytics.load=function(e){var t=document.createElement(&quot;script&quot;);t.type=&quot;text/javascript&quot;,t.async=!0,t.src=(&quot;https:&quot;===document.location.protocol?&quot;https://&quot;:&quot;http://&quot;)+&quot;d2dq2ahtl5zl1z.cloudfront.net&quot;+&quot;/analytics.js/v1/&quot;+e+&quot;/analytics.min.js&quot;;var n=document.getElementsByTagName(&quot;script&quot;)[0];n.parentNode.insertBefore(t,n);var r=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}},s=[&quot;identify&quot;,&quot;track&quot;];for(var i=0;i&lt;s.length;i++)analytics[s[i]]=r(s[i])},
@@ -350,7 +345,7 @@ Signs that it’s time to pay attention to HTML5: Effective August 1, 2011, Goog
                     
                 &lt;/ul&gt;
             &lt;/nav&gt;
-            &lt;a class=&quot;dark-more&quot;&gt;view more&lt;/a&gt;
+            &lt;a href=&quot;blog&quot; class=&quot;dark-more&quot;&gt;view more&lt;/a&gt;
         &lt;/div&gt;
 &lt;/footer&gt;
 
@@ -368,7 +363,27 @@ Signs that it’s time to pay attention to HTML5: Effective August 1, 2011, Goog
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/footer&gt;
+&lt;script &gt;(function(){
+	// Add the depedency if it doesn't already exist
+if ( typeof io === 'undefined' ) {
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = function(){
 
+// Listen for the regenerated event
+// and perform a reload of the page when the event occurs
+var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});
+
+	};
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+}
+})();&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
         </entry>
@@ -428,11 +443,6 @@ Signs that it’s time to pay attention to HTML5: Effective August 1, 2011, Goog
     &lt;/script&gt;
     &lt;!--End of Zopim Live Chat Script--&gt;
 
-    &lt;!-- convertable contact forms with analytics --&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;
-        var trackerID = &quot;3a39856ed90784117b180fecb5102e79&quot;; // account identifier
-        document.write(&quot;&lt;script type=\&quot;text/JavaScript\&quot; src=\&quot;http://convertable.com/admin/script.js\&quot;&gt;&lt;/&quot;+&quot;script&gt;&quot;);
-    &lt;/script&gt;
 
     &lt;!-- analytics.js  --&gt;&lt;script type=&quot;text/javascript&quot;&gt;
     var analytics=analytics||[];analytics.load=function(e){var t=document.createElement(&quot;script&quot;);t.type=&quot;text/javascript&quot;,t.async=!0,t.src=(&quot;https:&quot;===document.location.protocol?&quot;https://&quot;:&quot;http://&quot;)+&quot;d2dq2ahtl5zl1z.cloudfront.net&quot;+&quot;/analytics.js/v1/&quot;+e+&quot;/analytics.min.js&quot;;var n=document.getElementsByTagName(&quot;script&quot;)[0];n.parentNode.insertBefore(t,n);var r=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}},s=[&quot;identify&quot;,&quot;track&quot;];for(var i=0;i&lt;s.length;i++)analytics[s[i]]=r(s[i])},
@@ -819,7 +829,7 @@ to muck with your code, look somewhere else. For more reviews, see
                     
                 &lt;/ul&gt;
             &lt;/nav&gt;
-            &lt;a class=&quot;dark-more&quot;&gt;view more&lt;/a&gt;
+            &lt;a href=&quot;blog&quot; class=&quot;dark-more&quot;&gt;view more&lt;/a&gt;
         &lt;/div&gt;
 &lt;/footer&gt;
 
@@ -837,7 +847,27 @@ to muck with your code, look somewhere else. For more reviews, see
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/footer&gt;
+&lt;script &gt;(function(){
+	// Add the depedency if it doesn't already exist
+if ( typeof io === 'undefined' ) {
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = function(){
 
+// Listen for the regenerated event
+// and perform a reload of the page when the event occurs
+var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});
+
+	};
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+}
+})();&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
         </entry>

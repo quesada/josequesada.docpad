@@ -10,7 +10,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/technical-reasons-not-to-pic-google-website-optimizer.html" afterPath="$PROJECT_DIR$/posts/technical-reasons-not-to-pic-google-website-optimizer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problems-and-solutions.html" afterPath="$PROJECT_DIR$/problems-and-solutions.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="$PROJECT_DIR$/sitemap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/styles/layout.css" afterPath="$PROJECT_DIR$/src/documents/styles/layout.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/layouts/default.html.eco" afterPath="$PROJECT_DIR$/src/layouts/default.html.eco" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/layout.css" afterPath="$PROJECT_DIR$/styles/layout.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/why-you-should-work-with-me.html" afterPath="$PROJECT_DIR$/why-you-should-work-with-me.html" />
     </list>
     <ignored path="josequesada.docpad.iws" />
@@ -87,7 +89,7 @@
       <file leaf-file-name="default.html.eco" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="0" selection-start="2074" selection-end="2074" vertical-scroll-proportion="0.7867821">
+            <state line="163" column="31" selection-start="8402" selection-end="8402" vertical-scroll-proportion="0.33333334">
               <folding />
             </state>
           </provider>
@@ -105,7 +107,16 @@
       <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/styles/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="494" column="20" selection-start="8310" selection-end="8310" vertical-scroll-proportion="0.0">
+            <state line="434" column="20" selection-start="7652" selection-end="7652" vertical-scroll-proportion="-24.2">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.eco" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/documents/index.html.eco">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="14" selection-start="1111" selection-end="1111" vertical-scroll-proportion="-15.384615">
               <folding />
             </state>
           </provider>
@@ -135,16 +146,17 @@
         <option value="$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md" />
         <option value="$PROJECT_DIR$/docpad.coffee" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/documents/styles/layout.css" />
         <option value="$PROJECT_DIR$/src/layouts/post.html.eco" />
+        <option value="$PROJECT_DIR$/src/documents/styles/layout.css" />
         <option value="$PROJECT_DIR$/src/layouts/default.html.eco" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="1275" />
     <option name="y" value="23" />
-    <option name="width" value="1272" />
-    <option name="height" value="1409" />
+    <option name="width" value="1277" />
+    <option name="height" value="1174" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -188,6 +200,88 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="documents" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -289,7 +383,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1272" height="1409" extended-state="4" />
+    <frame x="1275" y="23" width="1277" height="1174" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -297,7 +391,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23431595" sideWeight="0.55524343" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Code Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.08851064" sideWeight="0.63670415" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24213837" sideWeight="0.6412777" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24119028" sideWeight="0.97116375" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23431595" sideWeight="0.55898875" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -365,13 +459,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="61" selection-start="753" selection-end="753" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/posts/technical-reasons-not-to-pic-google-website-optimizer.html.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="0" selection-end="179" vertical-scroll-proportion="0.0">
@@ -457,13 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/styles/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="494" column="20" selection-start="8310" selection-end="8310" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/post.html.eco">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="21" selection-start="1047" selection-end="1047" vertical-scroll-proportion="-28.461538">
@@ -471,9 +551,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/documents/styles/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="434" column="20" selection-start="7652" selection-end="7652" vertical-scroll-proportion="-24.2">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/documents/index.html.eco">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="14" selection-start="1111" selection-end="1111" vertical-scroll-proportion="-15.384615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="0" selection-start="2074" selection-end="2074" vertical-scroll-proportion="0.7867821">
+        <state line="163" column="31" selection-start="8402" selection-end="8402" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>

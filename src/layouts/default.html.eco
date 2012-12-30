@@ -161,7 +161,7 @@ mixpanel.init("3fcbcafa555fc23a2d9863437ee2af0d");</script><!-- end Mixpanel -->
                     <% end %>
                 </ul>
             </nav>
-            <a class="dark-more">view more</a>
+            <a href="blog.html" class="dark-more">view more</a>
         </div>
 </footer>
 

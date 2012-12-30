@@ -432,6 +432,7 @@ a.dark-more{
     text-decoration: none;
     color: #fff;
     text-shadow: 0 -1px 0 #0f161a;
+    cursor: pointer;
 }
 a.dark-more:hover{
     background: #2d6b71;
