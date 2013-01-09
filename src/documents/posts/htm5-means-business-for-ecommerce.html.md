@@ -2,7 +2,7 @@
 title: HTML5 means business for ecommerce
 layout: post
 tags: ['newtech','HTML5','web-development']
-date: 12/22/2012
+date: 12/20/2012
 ---
 
 ## What is HTML5?
@@ -29,7 +29,7 @@ Another excellent case for geolocation is using a phone’s built-in GPS feature
 
 This part may not make much sense to non-technical people. However, for those of you who had to scrape html “in the wild”, it will feel like a godsend. Traditionally HTML described the form, not the content of your site. Designers had to do all kinds of tricks to make their code more readable to external bots and to themselves.
 
-Semantic HTML5 tags, such as \<section\>, \<footer\>, etc make it very easy to find the part of the page you need.
+Semantic HTML5 tags, such as `<section>`, `<footer>`, etc make it very easy to find the part of the page you need.
 
 These tags provide additional semantic meaning to your page, which is good for SEO. In genral, any automated system that look at your site will benefit from having well-placed tags.
 Offline Storage

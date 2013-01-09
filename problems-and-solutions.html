@@ -273,12 +273,12 @@ mixpanel.init("3fcbcafa555fc23a2d9863437ee2af0d");</script><!-- end Mixpanel -->
                     
                     
                     <li class="">
-                        <a href="/posts/htm5-means-business-for-ecommerce.html" property="dc:title">HTML5 means business for ecommerce</a>
+                        <a href="/posts/technical-reasons-not-to-pic-google-website-optimizer.html" property="dc:title">Technical reasons not to use google website optimizer (and Usability reasons too)</a>
                     </li>
                     
                     
                     <li class="">
-                        <a href="/posts/technical-reasons-not-to-pic-google-website-optimizer.html" property="dc:title">Technical reasons not to use google website optimizer (and Usability reasons too)</a>
+                        <a href="/posts/htm5-means-business-for-ecommerce.html" property="dc:title">HTML5 means business for ecommerce</a>
                     </li>
                     
                 </ul>
@@ -301,6 +301,26 @@ mixpanel.init("3fcbcafa555fc23a2d9863437ee2af0d");</script><!-- end Mixpanel -->
         </div>
     </div>
 </footer>
+<script >(function(){
+	// Add the depedency if it doesn't already exist
+if ( typeof io === 'undefined' ) {
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = function(){
 
+// Listen for the regenerated event
+// and perform a reload of the page when the event occurs
+var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});
+
+	};
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+}
+})();</script>
 </body>
 </html>

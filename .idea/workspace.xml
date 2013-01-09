@@ -2,13 +2,124 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7762529-61cf-4beb-84f5-2416580ab975" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-partials/node_modules/bal-util/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/bal-util/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/node_modules/crc/.gitmodules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/node_modules/crc/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/node_modules/crc/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/node_modules/crc/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/node_modules/crc/lib/crc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/node_modules/crc/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/node_modules/crc/test/crc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/blog.1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/blog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/post.1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/posts/amazon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/posts/blogging-with-docpad.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/posts/creating-a-docpad-plugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/posts/creating-the-index-page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/posts/going-static.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/posts/htm5-means-business-for-ecommerce.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/posts/technical-reasons-not-to-pic-google-website-optimizer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/posts/unit-testing-docpad-plugins.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atom.xml" afterPath="$PROJECT_DIR$/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-marked/node_modules/marked/LICENSE" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-marked/node_modules/marked/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-marked/node_modules/marked/README.md" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-marked/node_modules/marked/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-marked/node_modules/marked/bin/marked" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-marked/node_modules/marked/bin/marked" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-marked/node_modules/marked/lib/marked.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-marked/node_modules/marked/lib/marked.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-marked/node_modules/marked/man/marked.1" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-marked/node_modules/marked/man/marked.1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-marked/node_modules/marked/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-marked/node_modules/marked/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-partials/node_modules/bal-util/History.md" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-partials/node_modules/bal-util/History.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-partials/node_modules/bal-util/out/lib/paths.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-partials/node_modules/bal-util/out/lib/paths.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-partials/node_modules/bal-util/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-partials/node_modules/bal-util/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/History.md" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/History.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/README.md" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/History.md" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/History.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/balutil.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/balutil.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/compare.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/compare.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/events.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/flow.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/flow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/html.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/html.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/modules.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/modules.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/paths.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/paths.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/types.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/types.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/out/text.plugin.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/out/text.plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/out/text.tester.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/out/text.tester.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/node_modules/docpad/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/History.md" afterPath="$PROJECT_DIR$/node_modules/docpad/History.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/LICENSE.txt" afterPath="$PROJECT_DIR$/node_modules/docpad/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/README.md" afterPath="$PROJECT_DIR$/node_modules/docpad/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/airbrake/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/airbrake/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/bal-util/History.md" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/bal-util/History.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/bal-util/out/lib/paths.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/bal-util/out/lib/paths.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/bal-util/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/bal-util/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/caterpillar/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/caterpillar/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/commander/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/commander/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/cson/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/cson/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/History.md" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/History.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/lib/application.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/lib/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/lib/response.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/lib/response.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/lib/router/index.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/lib/router/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/connect.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/connect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/basicAuth.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/basicAuth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/cookieSession.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/cookieSession.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/csrf.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/csrf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/directory.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/directory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/json.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/json.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/limit.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/limit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/session.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/session.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/timeout.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/timeout.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/proto.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/proto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/public/directory.html" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/public/directory.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/public/error.html" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/public/error.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/lib/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/test.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/growl/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/growl/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/mime/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/mime/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/query-engine/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/query-engine/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/semver/README.md" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/semver/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/semver/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/semver/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/underscore/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/underscore/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/History.md" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/History.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/README.md" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/out/lib/watchr.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/out/lib/watchr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/.jshintrc" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/HISTORY.md" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/HISTORY.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/action.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/action.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/action/append/constant.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/action/append/constant.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/action/store/constant.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/action/store/constant.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/action_container.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/action_container.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/argument/group.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/argument/group.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/argument_parser.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/lib/argument_parser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/node_modules/argparse/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/out/lib/base.js" afterPath="$PROJECT_DIR$/node_modules/docpad/out/lib/base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/out/lib/docpad.js" afterPath="$PROJECT_DIR$/node_modules/docpad/out/lib/docpad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/out/lib/models/document.js" afterPath="$PROJECT_DIR$/node_modules/docpad/out/lib/models/document.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/out/lib/models/file.js" afterPath="$PROJECT_DIR$/node_modules/docpad/out/lib/models/file.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/out/lib/testers.js" afterPath="$PROJECT_DIR$/node_modules/docpad/out/lib/testers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/htm5-means-business-for-ecommerce.html" afterPath="$PROJECT_DIR$/posts/htm5-means-business-for-ecommerce.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/technical-reasons-not-to-pic-google-website-optimizer.html" afterPath="$PROJECT_DIR$/posts/technical-reasons-not-to-pic-google-website-optimizer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problems-and-solutions.html" afterPath="$PROJECT_DIR$/problems-and-solutions.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="$PROJECT_DIR$/sitemap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/blog.html.eco" afterPath="$PROJECT_DIR$/src/documents/blog.html.eco" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md" afterPath="$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/styles/base.css" afterPath="$PROJECT_DIR$/src/documents/styles/base.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/styles/layout.css" afterPath="$PROJECT_DIR$/src/documents/styles/layout.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/base.css" afterPath="$PROJECT_DIR$/styles/base.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/layout.css" afterPath="$PROJECT_DIR$/styles/layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/why-you-should-work-with-me.html" afterPath="$PROJECT_DIR$/why-you-should-work-with-me.html" />
     </list>
     <ignored path="josequesada.docpad.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,16 +141,46 @@
       <file leaf-file-name="default.html.eco" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="17" selection-start="1230" selection-end="1230" vertical-scroll-proportion="-13.333333">
+            <state line="34" column="17" selection-start="1230" selection-end="1230" vertical-scroll-proportion="-26.153847">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="base.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/styles/base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="4" selection-start="3258" selection-end="3258" vertical-scroll-proportion="0.536862">
+            <state line="140" column="0" selection-start="4816" selection-end="4816" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="htm5-means-business-for-ecommerce.html.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="0" selection-start="1608" selection-end="1608" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.html.eco" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/documents/blog.html.eco">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="0" selection-start="574" selection-end="574" vertical-scroll-proportion="-12.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="36" selection-start="1297" selection-end="1297" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -48,7 +189,7 @@
       <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/partials/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="92" selection-start="522" selection-end="1863" vertical-scroll-proportion="-23.846153">
+            <state line="7" column="48" selection-start="484" selection-end="484" vertical-scroll-proportion="-5.3846154">
               <folding />
             </state>
           </provider>
@@ -57,16 +198,16 @@
       <file leaf-file-name="post.html.eco" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/layouts/post.html.eco">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="21" selection-start="1047" selection-end="1047" vertical-scroll-proportion="-28.461538">
+            <state line="37" column="21" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="layout.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/documents/styles/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="400" column="14" selection-start="6855" selection-end="6855" vertical-scroll-proportion="-22.32">
+            <state line="44" column="45" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.39475712">
               <folding />
             </state>
           </provider>
@@ -75,7 +216,7 @@
       <file leaf-file-name="index.html.eco" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/index.html.eco">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="14" selection-start="1111" selection-end="1111" vertical-scroll-proportion="-15.384615">
+            <state line="20" column="14" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -102,21 +243,20 @@
         <option value="$PROJECT_DIR$/src/documents/why-you-should-work-with-me.html.eco" />
         <option value="$PROJECT_DIR$/src/documents/index.html.eco" />
         <option value="$PROJECT_DIR$/src/documents/posts/amazon.html.md" />
-        <option value="$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md" />
         <option value="$PROJECT_DIR$/docpad.coffee" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/layouts/post.html.eco" />
         <option value="$PROJECT_DIR$/src/layouts/default.html.eco" />
-        <option value="$PROJECT_DIR$/src/documents/styles/layout.css" />
         <option value="$PROJECT_DIR$/src/documents/styles/base.css" />
+        <option value="$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md" />
+        <option value="$PROJECT_DIR$/src/documents/blog.html.eco" />
+        <option value="$PROJECT_DIR$/src/documents/styles/layout.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1537" />
-    <option name="y" value="23" />
-    <option name="width" value="1015" />
-    <option name="height" value="1174" />
+    <option name="width" value="1373" />
+    <option name="height" value="1409" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -144,7 +284,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -212,6 +351,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -263,20 +406,61 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="documents" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="josequesada.docpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.lookFeel" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -365,15 +549,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1537" y="23" width="1015" height="1174" extended-state="4" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1373" height="1409" extended-state="4" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23431595" sideWeight="0.55524343" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Code Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.08851064" sideWeight="0.63670415" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3034483" sideWeight="0.97116375" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20611799" sideWeight="0.97116375" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23431595" sideWeight="0.55898875" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -441,61 +625,94 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/layouts/blog.html.eco">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/atom.xml.eco">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="43" selection-start="516" selection-end="516" vertical-scroll-proportion="-11.538462" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/styles/skeleton.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="32" selection-start="3801" selection-end="3805" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/docpad/node_modules/query-engine/out/lib/query-engine.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="469" column="32" selection-start="14598" selection-end="14598" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="469" column="32" selection-start="14598" selection-end="14598" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/posts/technical-reasons-not-to-pic-google-website-optimizer.html.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="0" selection-end="179" vertical-scroll-proportion="0.0" />
+      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="0" selection-end="179" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/posts/amazon.html.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0" />
+      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docpad.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/documents/index.html.eco">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="14" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layouts/post.html.eco">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="21" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/documents/styles/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="0" selection-start="4816" selection-end="4816" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="17" selection-start="1230" selection-end="1230" vertical-scroll-proportion="-26.153847">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/documents/posts/htm5-means-business-for-ecommerce.html.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="1608" selection-end="1608" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="84" selection-end="84" vertical-scroll-proportion="0.06051437">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/files/images/logo-jq.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="27" selection-start="1329" selection-end="1329" vertical-scroll-proportion="0.62027234">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/documents/blog.html.eco">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="574" selection-end="574" vertical-scroll-proportion="-12.5">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
@@ -505,51 +722,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docpad.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/index.html.eco">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="14" selection-start="1111" selection-end="1111" vertical-scroll-proportion="-15.384615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/partials/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="92" selection-start="522" selection-end="1863" vertical-scroll-proportion="-23.846153">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layouts/post.html.eco">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="21" selection-start="1047" selection-end="1047" vertical-scroll-proportion="-28.461538">
+        <state line="7" column="48" selection-start="484" selection-end="484" vertical-scroll-proportion="-5.3846154">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/styles/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="400" column="14" selection-start="6855" selection-end="6855" vertical-scroll-proportion="-22.32">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="17" selection-start="1230" selection-end="1230" vertical-scroll-proportion="-13.333333">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/styles/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="4" selection-start="3258" selection-end="3258" vertical-scroll-proportion="0.536862">
+        <state line="44" column="45" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.39475712">
           <folding />
         </state>
       </provider>
