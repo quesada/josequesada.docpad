@@ -106,7 +106,7 @@ templateData: # Specify some site properties
             changefreq: 'weekly'
             priority: 0.5
 
-#  outPath: '.'
+  outPath: '.'
 
 }
 

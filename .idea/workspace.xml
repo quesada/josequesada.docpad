@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7762529-61cf-4beb-84f5-2416580ab975" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docpad.coffee" afterPath="$PROJECT_DIR$/docpad.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/sitemap.xml" afterPath="$PROJECT_DIR$/out/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atom.xml" afterPath="$PROJECT_DIR$/atom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy.sh" afterPath="$PROJECT_DIR$/deploy.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/styles/layout.css" afterPath="$PROJECT_DIR$/out/styles/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/why-you-should-work-with-me.html" afterPath="$PROJECT_DIR$/out/why-you-should-work-with-me.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/problems-and-solutions.html" afterPath="$PROJECT_DIR$/out/problems-and-solutions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="$PROJECT_DIR$/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/styles/base.css" afterPath="$PROJECT_DIR$/out/styles/base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/index.html" afterPath="$PROJECT_DIR$/out/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/atom.xml" afterPath="$PROJECT_DIR$/out/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docpad.coffee" afterPath="$PROJECT_DIR$/docpad.coffee" />
     </list>
     <ignored path="josequesada.docpad.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -104,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deploy.sh" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="deploy.sh" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deploy.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state line="2" column="0" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
@@ -113,10 +103,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docpad.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="docpad.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docpad.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="0" selection-start="3628" selection-end="3628" vertical-scroll-proportion="0.0">
+            <state line="109" column="0" selection-start="3627" selection-end="3627" vertical-scroll-proportion="0.5537065">
               <folding />
             </state>
           </provider>
@@ -184,7 +174,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -321,14 +310,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.lookFeel" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -418,7 +408,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1373" height="1409" extended-state="4" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -588,16 +578,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docpad.coffee">
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="0" selection-start="3628" selection-end="3628" vertical-scroll-proportion="0.0">
+        <state line="2" column="0" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
+    <entry file="file://$PROJECT_DIR$/docpad.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
+        <state line="109" column="0" selection-start="3627" selection-end="3627" vertical-scroll-proportion="0.5537065">
           <folding />
         </state>
       </provider>
