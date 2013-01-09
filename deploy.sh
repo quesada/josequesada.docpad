@@ -1,4 +1,4 @@
-!#/bin/sh
+#!/bin/sh
 
 # Install dependencies (in case of not having all plugins installed)
 docpad install

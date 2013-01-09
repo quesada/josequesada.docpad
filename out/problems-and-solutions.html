@@ -37,15 +37,26 @@
     <link rel="stylesheet" href="/styles/font-awesome.css" />
     <link rel="stylesheet" href="/styles/github.css" />
 
-    <!-- convertable contact forms with analytics -->
+
+    <!--Start of Zopim Live Chat Script-->
     <script type="text/javascript">
-        var trackerID = "3a39856ed90784117b180fecb5102e79"; // account identifier
-        document.write("<script type=\"text/JavaScript\" src=\"http://convertable.com/admin/script.js\"></"+"script>");
+        window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+                d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+                _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+            $.src='//cdn.zopim.com/?tHClqfAYcm1uy3yA5st8fxBAwZzDFM1a';z.t=+new Date;$.
+                    type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
     </script>
+    <!--End of Zopim Live Chat Script-->
 
-    <!-- google analytics -->
-    <script type="text/javascript">
 
+    <!-- analytics.js  --><script type="text/javascript">
+    var analytics=analytics||[];analytics.load=function(e){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net"+"/analytics.js/v1/"+e+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);var r=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}},s=["identify","track"];for(var i=0;i<s.length;i++)analytics[s[i]]=r(s[i])},
+    analytics.load("fxpif23");
+    </script>
+    <!-- end analytics.js -->
+
+
+    <!-- google analytics --><script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', "UA-36430477-1"]);
         _gaq.push(['_setDomainName', 'josequesada.com']);
@@ -62,6 +73,9 @@
     <!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
         typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
 mixpanel.init("3fcbcafa555fc23a2d9863437ee2af0d");</script><!-- end Mixpanel -->
+
+
+
 </head>
 
 <body>
@@ -259,17 +273,17 @@ mixpanel.init("3fcbcafa555fc23a2d9863437ee2af0d");</script><!-- end Mixpanel -->
                     
                     
                     <li class="">
-                        <a href="/posts/htm5-means-business-for-ecommerce.html" property="dc:title">HTML5 means business for ecommerce</a>
+                        <a href="/posts/technical-reasons-not-to-pic-google-website-optimizer.html" property="dc:title">Technical reasons not to use google website optimizer (and Usability reasons too)</a>
                     </li>
                     
                     
                     <li class="">
-                        <a href="/posts/technical-reasons-not-to-pic-google-website-optimizer.html" property="dc:title">Technical reasons not to use google website optimizer (and Usability reasons too)</a>
+                        <a href="/posts/htm5-means-business-for-ecommerce.html" property="dc:title">HTML5 means business for ecommerce</a>
                     </li>
                     
                 </ul>
             </nav>
-            <a class="dark-more">view more</a>
+            <a href="blog.html" class="dark-more">view more</a>
         </div>
 </footer>
 
@@ -287,9 +301,26 @@ mixpanel.init("3fcbcafa555fc23a2d9863437ee2af0d");</script><!-- end Mixpanel -->
         </div>
     </div>
 </footer>
-<script  src="/socket.io/socket.io.js"></script><script >var socket = io.connect('/docpad-live-reload');
+<script >(function(){
+	// Add the depedency if it doesn't already exist
+if ( typeof io === 'undefined' ) {
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = function(){
+
+// Listen for the regenerated event
+// and perform a reload of the page when the event occurs
+var socket = io.connect('/docpad-live-reload');
 socket.on('regenerated',function(){
 	document.location.reload();
-});</script>
+});
+
+	};
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+}
+})();</script>
 </body>
 </html>
