@@ -1,0 +1,8 @@
+---
+title: 'Blog'
+layout: 'blogloop'
+tags: []
+---
+<!-- This simply renders the layout called blogloop. TODO: refactor -->
+
+

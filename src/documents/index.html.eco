@@ -1,0 +1,62 @@
+---
+title: "Personal homepage"
+layout: "default"
+isPage: true
+---
+
+    <div class="container welcome">
+            <h1>Turning data into gold, “data alchemy”  -- Google and Amazon have already figured it out . Have you?</h1>
+            <span class="graphic"><img src="images/graphic.png" alt="" /></span>
+    </div><!-- end welcome -->
+
+
+    <div class="container service">
+        <div class="one-third column">
+            <h2>Why are customers canceling their memberships?
+            </h2>
+            <p>Whish I knew :). But we can analyze engagement & retention metrics, feedback from users and base product decisions on them. For example, performing cohort analysis, divide customers in segments based on their “time to cancel” (i.e. cancelled after 30 days vs. canceled after more than 30 days) and focus on long-term users who have greater CLV and cancellation reasons we can address. Or we can go with churn models, calculating each customer 'Probability alive'.</p>
+            <a href="/problems-and-solutions.html" class="more">
+            <i class="icon-tasks"></i> read more</a>
+
+        </div>
+
+        <div class="one-third column">
+            <h2>How are users moving through the site?</h2>
+            <p>We can discover how each page contributes to conversion. Simple, measurable performance. What are the most valuable pages for conversion? Path analysis, decision trees, and probability theory are your new weapons. We will find which offers you could target at each individual client as he comes back to a certain page. Then plug any hole that leads people away from the desired action.
+            </p>
+            <br>
+            <br>
+            <a href="/problems-and-solutions.html" class="more">
+            <i class="icon-random"></i> read more</a>
+
+        </div>
+
+        <div class="one-third column">
+            <h2>What is the maximum I should pay to acquire customers?</h2>
+            <p>Most shops have a 'gut feeling' of what their customer lifetime value (CLV) is, but no way of knowing for sure. Yet this is the number that would make the largest impact to their bottom line, if only it was possible to have it.  Turns out CLV can be computed with surprising accuracy (around 10% error) at the individual level. We'll use sophisticated Bayesian models to estimate CLV. We'll look beyond what has happened in the past (which you get with say Google analytics).</p>
+            <a href="/problems-and-solutions.html" class="more">
+            <i class="icon-magnet"></i> read more</a>
+
+            </div>
+        </div>
+    </div><!-- end service -->
+
+
+    <!-- <div class="container recent-projects"> -->
+
+    <div class="container welcome">
+            <h1>I'll ask the questions you didn’t even know you had</h1>
+            <span class="graphic"><img src="images/graphic.png" alt="" /></span>
+    </div><!-- end welcome -->
+
+
+    <!-- end of ten reasons -->
+
+    <div class="container testimonial">
+        <img src="images/frank.png" alt=""/>
+        <blockquote>
+            <p>Jose and I collaborated in the EU funded research project LarKC, building the Large Knowledge Collider, an infrastructure for very large scale reasoning with data on the Web. One of the exciting aspects of that project was the collaboration between computer scientists and cognitive scientists. Jose was absolutely crucial in bridging the gap between those two communities. I remember very well the first meeting where he attended. I assumed he was a psychologist (since he came from Max Planck Institute), but he kept asking all these hard-core techie questions! Since that first meeting, Jose has continued to impress me with his breadth of knowledge and skills that span different disciplines. He has also impressed me with his creativity in experimental design, with his perseverance in the face of experimental difficulties, and with his intellectual honesty and integrity. </p>
+            <cite><strong>Frank van Harmelen</strong></cite>
+            <a href="http://www.cs.vu.nl/~frankh/" target="_blank">Professor of Knowledge Representation, one of the 100 most cited authors in Computer Sciece of the past 10 years</a>
+        </blockquote>
+    </div><!-- end testimonial -->

@@ -1,0 +1,27 @@
+---
+title: 'Blog'
+layout: 'default'
+tags: []
+isPaged: true
+pageOrder: 0
+pagedCollection: 'posts'
+pageSize: 5
+---
+<!-- This doesn't render -->
+
+<div class="container post">
+	<% posts = @getCollection('posts') %>
+	<% for i in [@document.page.startIdx...@document.page.endIdx]: %>
+		<% document = posts.at(i).toJSON() %>
+		<article id="post" class="post">
+			<h1><a href='<%=document.url%>'><%= document.title %></a></h1>
+			<div class="post-date"><%= document.date.toLocaleDateString() %></div>
+			<div class="post-content">
+				<%- document.contentRenderedWithoutLayouts %>
+			</div>
+		</article>
+		<hr/>
+	<% end %>
+</div>
+
+<!-- end container post -->

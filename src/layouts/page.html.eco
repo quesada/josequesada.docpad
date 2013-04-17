@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<article id="page" class="page">
+	<h2><%= @document.title %></h2>
+	<div class="page-date"><%= @document.date.toLocaleDateString() %></div>
+	<div class="page-content"><%- @content %></div>
+</article>
