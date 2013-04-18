@@ -3,7 +3,7 @@
     <title>Jose quesada: E-commerce database marketing</title>
     <link href="http://josequesada.com/atom.xml" rel="self"/>
     <link href="http://josequesada.com"/>
-    <updated>2013-04-18T03:04:28.438Z</updated>
+    <updated>2013-04-18T09:50:24.806Z</updated>
     <id>http://josequesada.com</id>
     <author>
         <name>Jose Quesada</name>
@@ -247,7 +247,7 @@ For each result I found, I&amp;#39;d send a custom email to see if they would be
 &lt;p&gt;For more creative ways of link building, a great place to look is &lt;a href=&quot;http://inbound.org&quot;&gt;inbound&lt;/a&gt;. &lt;/p&gt;
 &lt;p&gt;These special queries will only get more powerful as google indexes more Semantic Markup. You can filter by date of post, by location, ... and maybe one day by product mentioned in the article.&lt;/p&gt;
 &lt;p&gt;The biggest mistake you can make is not to measure the results. If you apply any of the advice above, and it makes a big splash in your bottom line, I&amp;#39;d love to hear about it.&lt;/p&gt;
-&lt;h4&gt;Note [note]&lt;/h4&gt;
+&lt;h3&gt;Note&lt;/h3&gt;
 &lt;p&gt;The last time I tried using sharedCount, the table didn&amp;#39;t render on chrome 25; it does work on firefox, but the rendering is sloppy (headers are to the right of the table, columns are not aligned. It doesn&amp;#39;t matter, because what you need is the &amp;#39;export to CSV&amp;#39; function, and this works great.&lt;/p&gt;
 &lt;/div&gt;
             &lt;/article&gt;
