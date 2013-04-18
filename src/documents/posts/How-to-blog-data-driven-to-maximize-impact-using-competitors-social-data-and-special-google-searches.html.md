@@ -1,12 +1,9 @@
 ---
-title: How to blog data-driven to maximize impact, using competitors' social data and special google searches 
+title: How-to: blog data-driven maximizing impact (using competitors' data & google searches)
 layout: post
 tags: ['blogging','strategy', 'data-science', 'content-marketing']
 date: 02/27/2013
 ---
-
-ccccccseHow-to-blog-data-driven-to-maximize-impact,-using-competitors'-social-data-and-special-google-searches
-
 
 I'm sure you have thought a lot about getting traffic from google searches by writing content. This is content marketing the safest way (for now) to acquire links. Google employs PhDs to prevent most SEO tricks, and because of that SEO best practices change from time to time. But focusing on excellent content is a safe bet, since most other methods have a high risk of being detected algorithmically. 
 
@@ -29,7 +26,7 @@ We are going to create a table that gives you clarity that few bloggers have (un
 
 1. Create an spreadsheet that lists all your competing blogs.
 
-2. For each post, you want to get an idea about how much their readership liked the content. Nothing better than counting tweets, facebook likes and all the obvious social submissions. You can automate this by using [sharedcount](http://sharedcount.com/). Take the url and paste it in the textbox. Since you want to do this for multiple urls, you could use their 'multi-url dashboard'.  The last time I tried, the table didn't render on chrome 25; it does work on firefox, but the rendering is sloppy (headers are to the right of the table, columns are not aligned. It doesn't matter, because what you need is the 'export to CSV' function, and this works great. You will get something like the table below. I used two random posts; you should use the most recent posts from your competitors, or pundits you follow in your field.
+2. For each post, you want to get an idea about how much their readership liked the content. Nothing better than counting tweets, facebook likes and all the obvious social submissions. You can automate this by using [sharedcount](http://sharedcount.com/). Take the url and paste it in the textbox. Since you want to do this for multiple urls, you could use their 'multi-url dashboard' (see footnote).  You will get something like the table below. I used two random posts; you should use the most recent posts from your competitors, or pundits you follow in your field.
 
 3. This technique will show you clearly which topics will get your audience engaged. You can write content related to those topics and they'll  likely outperform topics that you generate 'by hunch'. It's kind of scary how most bloggers, your competitors included, will be just be following 'what they personally like' as a compass for writing. While the human brain is pretty good at detecting trends, it's never a bad idea to supplement its capacity with hard numbers. This is the power of a data-driven blogging strategy.
 
@@ -167,3 +164,5 @@ These special queries will only get more powerful as google indexes more Semanti
 
 The biggest mistake you can make is not to measure the results. If you apply any of the advice above, and it makes a big splash in your bottom line, I'd love to hear about it.
 
+### Note 
+The last time I tried using sharedCount, the table didn't render on chrome 25; it does work on firefox, but the rendering is sloppy (headers are to the right of the table, columns are not aligned. It doesn't matter, because what you need is the 'export to CSV' function, and this works great.

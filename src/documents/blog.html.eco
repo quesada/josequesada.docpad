@@ -3,6 +3,6 @@ title: 'Blog'
 layout: 'blogloop'
 tags: []
 ---
-<!-- This simply renders the layout called blogloop. TODO: refactor -->
-
-
+<!-- This simply renders the layout called blogloop. TODO: refactor
+it often fails to regenerate, so I have to remove the root blog.html
+It freaking produces the old one. Maybe because of the .snapshots that eclipse makes -->

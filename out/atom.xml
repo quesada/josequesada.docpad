@@ -3,7 +3,7 @@
     <title>Jose quesada: E-commerce database marketing</title>
     <link href="http://josequesada.com/atom.xml" rel="self"/>
     <link href="http://josequesada.com"/>
-    <updated>2013-04-17T20:43:55.716Z</updated>
+    <updated>2013-04-18T03:04:28.438Z</updated>
     <id>http://josequesada.com</id>
     <author>
         <name>Jose Quesada</name>
@@ -12,10 +12,10 @@
 
     
         <entry>
-            <title>How to blog data-driven to maximize impact, using competitors' social data and special google searches</title>
-            <link href="http://josequesada.com//posts/How-to-blog-data-driven-to-maximize-impact-using-competitors-social-data-and-special-google-searches.html (1)"/>
+            <title>How-to: blog data-driven maximizing impact (using competitors' data &amp; google searches)</title>
+            <link href="http://josequesada.com//posts/How-to-blog-data-driven-to-maximize-impact-using-competitors-social-data-and-special-google-searches.html"/>
             <updated>2013-02-26T23:00:00.000Z</updated>
-            <id>http://josequesada.com//posts/How-to-blog-data-driven-to-maximize-impact-using-competitors-social-data-and-special-google-searches.html (1)</id>
+            <id>http://josequesada.com//posts/How-to-blog-data-driven-to-maximize-impact-using-competitors-social-data-and-special-google-searches.html</id>
             <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
@@ -28,7 +28,7 @@
     &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 
     &lt;!-- Our site title and description --&gt;
-    &lt;title&gt;How to blog data-driven to maximize impact, using competitors' social data and special google searches | Jose quesada: E-commerce database marketing&lt;/title&gt;
+    &lt;title&gt;How-to: blog data-driven maximizing impact (using competitors' data &amp;amp; google searches) | Jose quesada: E-commerce database marketing&lt;/title&gt;
     &lt;meta name=&quot;description&quot; content=&quot;Website of Jose Quesada.&quot; /&gt;
     &lt;meta name=&quot;keywords&quot; content=&quot;quesada, jose quesada, R, semantic web, semantic analysis, predictive models, statistics, machine learning, marketing, psychographics, cognitive science, database marketing&quot; /&gt;
     &lt;meta name=&quot;author&quot; content=&quot;Jose Quesada&quot; /&gt;
@@ -140,10 +140,9 @@ mixpanel.init(&quot;3fcbcafa555fc23a2d9863437ee2af0d&quot;);&lt;/script&gt;&lt;!
         &lt;div class=&quot;two-thirds column&quot;&gt;
             &lt;div class=&quot;post-container&quot;&gt;
             &lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
-                &lt;h1&gt;How to blog data-driven to maximize impact, using competitors' social data and special google searches&lt;/h1&gt;
+                &lt;h1&gt;How-to: blog data-driven maximizing impact (using competitors' data &amp;amp; google searches)&lt;/h1&gt;
                 &lt;div class=&quot;post-date&quot;&gt;Wednesday, February 27, 2013&lt;/div&gt;
-                &lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;ccccccseHow-to-blog-data-driven-to-maximize-impact,-using-competitors&amp;#39;-social-data-and-special-google-searches&lt;/p&gt;
-&lt;p&gt;I&amp;#39;m sure you have thought a lot about getting traffic from google searches by writing content. This is content marketing the safest way (for now) to acquire links. Google employs PhDs to prevent most SEO tricks, and because of that SEO best practices change from time to time. But focusing on excellent content is a safe bet, since most other methods have a high risk of being detected algorithmically. &lt;/p&gt;
+                &lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;I&amp;#39;m sure you have thought a lot about getting traffic from google searches by writing content. This is content marketing the safest way (for now) to acquire links. Google employs PhDs to prevent most SEO tricks, and because of that SEO best practices change from time to time. But focusing on excellent content is a safe bet, since most other methods have a high risk of being detected algorithmically. &lt;/p&gt;
 &lt;p&gt;The way I see it, there are two problems you need to solve: (1) how to find good topics that your audience craves, and (2) how to get others to link to you. Let&amp;#39;s try to answer these questions with data, as it should be :).&lt;/p&gt;
 &lt;p&gt;What comes next is a how-to to blog in a data-driven way. The hacks may seem too simple to actually work, even naive. But applying these systematically will get you results; and results you can measure. Try them for a week, and compare it with your previous blogging routine. This stuff relies on (1) collecting data from content nearby that is liked, so you can write similar posts, and (2) special google searches to get links.&lt;/p&gt;
 &lt;p&gt;There are many blog posts on &lt;a href=&quot;http://www.problogger.net/archives/2008/12/10/you-need-a-blog-strategy/&quot;&gt;blogging strategy&lt;/a&gt;. But I haven&amp;#39;t found actionable advice that is data-driven on a single post. Here is my attempt to write such a post for you.&lt;/p&gt;
@@ -156,7 +155,7 @@ mixpanel.init(&quot;3fcbcafa555fc23a2d9863437ee2af0d&quot;);&lt;/script&gt;&lt;!
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Create an spreadsheet that lists all your competing blogs.&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;For each post, you want to get an idea about how much their readership liked the content. Nothing better than counting tweets, facebook likes and all the obvious social submissions. You can automate this by using &lt;a href=&quot;http://sharedcount.com/&quot;&gt;sharedcount&lt;/a&gt;. Take the url and paste it in the textbox. Since you want to do this for multiple urls, you could use their &amp;#39;multi-url dashboard&amp;#39;.  The last time I tried, the table didn&amp;#39;t render on chrome 25; it does work on firefox, but the rendering is sloppy (headers are to the right of the table, columns are not aligned. It doesn&amp;#39;t matter, because what you need is the &amp;#39;export to CSV&amp;#39; function, and this works great. You will get something like the table below. I used two random posts; you should use the most recent posts from your competitors, or pundits you follow in your field.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;For each post, you want to get an idea about how much their readership liked the content. Nothing better than counting tweets, facebook likes and all the obvious social submissions. You can automate this by using &lt;a href=&quot;http://sharedcount.com/&quot;&gt;sharedcount&lt;/a&gt;. Take the url and paste it in the textbox. Since you want to do this for multiple urls, you could use their &amp;#39;multi-url dashboard&amp;#39; (see footnote).  You will get something like the table below. I used two random posts; you should use the most recent posts from your competitors, or pundits you follow in your field.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;This technique will show you clearly which topics will get your audience engaged. You can write content related to those topics and they&amp;#39;ll  likely outperform topics that you generate &amp;#39;by hunch&amp;#39;. It&amp;#39;s kind of scary how most bloggers, your competitors included, will be just be following &amp;#39;what they personally like&amp;#39; as a compass for writing. While the human brain is pretty good at detecting trends, it&amp;#39;s never a bad idea to supplement its capacity with hard numbers. This is the power of a data-driven blogging strategy.&lt;/p&gt;
 &lt;/li&gt;
@@ -248,6 +247,8 @@ For each result I found, I&amp;#39;d send a custom email to see if they would be
 &lt;p&gt;For more creative ways of link building, a great place to look is &lt;a href=&quot;http://inbound.org&quot;&gt;inbound&lt;/a&gt;. &lt;/p&gt;
 &lt;p&gt;These special queries will only get more powerful as google indexes more Semantic Markup. You can filter by date of post, by location, ... and maybe one day by product mentioned in the article.&lt;/p&gt;
 &lt;p&gt;The biggest mistake you can make is not to measure the results. If you apply any of the advice above, and it makes a big splash in your bottom line, I&amp;#39;d love to hear about it.&lt;/p&gt;
+&lt;h4&gt;Note [note]&lt;/h4&gt;
+&lt;p&gt;The last time I tried using sharedCount, the table didn&amp;#39;t render on chrome 25; it does work on firefox, but the rendering is sloppy (headers are to the right of the table, columns are not aligned. It doesn&amp;#39;t matter, because what you need is the &amp;#39;export to CSV&amp;#39; function, and this works great.&lt;/p&gt;
 &lt;/div&gt;
             &lt;/article&gt;
 
@@ -276,7 +277,7 @@ For each result I found, I&amp;#39;d send a custom email to see if they would be
         window.disqus_developer = document.location.href.indexOf('localhost') !== -1 ? 1 : 0;
         window.disqus_url = document.location.href
         window.disqus_identifier = 'posts-How-to-blog-data-driven-to-maximize-impact-using-competitors-social-data-and-special-google-searches';
-        window.disqus_title = 'How to blog data-driven to maximize impact, using competitors' social data and special google searches';
+        window.disqus_title = 'How-to: blog data-driven maximizing impact (using competitors' data &amp; google searches)';
         if ( window.DISQUS) {
             return DISQUS.reset({
                 reload: true,
@@ -306,25 +307,27 @@ For each result I found, I&amp;#39;d send a custom email to see if they would be
         &lt;div class=&quot;one-third column&quot;&gt;
 
             
-                &lt;h3&gt;Related Posts&lt;/h3&gt;
-                
-                    &lt;li&gt;&lt;a href=&quot;/posts/content-marketing.html (1)&quot;&gt;How to blog data-driven to maximize impact, using competitors' social data and special google searches&lt;/a&gt;&lt;/li&gt;
-                
-            
 
             &lt;div class=&quot;follow-me-twitter&quot;&gt;
                     &lt;!-- Begin MailChimp Signup Form 26c7f53623 --&gt;
 
               &lt;div id=&quot;mc_embed_signup&quot;&gt;
-                  &lt;form action=&quot;http://fluidshopping.us2.list-manage.com/subscribe/post?u=252280e9029685764c8e5415f&amp;amp;id=26c7f53623&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate invite-form form-inline&quot; target=&quot;_blank&quot;&gt;
+                  &lt;form action=&quot;http://josequesada.us2.list-manage.com/subscribe/post?u=252280e9029685764c8e5415f&amp;amp;id=26c7f53623&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate invite-form form-inline&quot; target=&quot;_blank&quot;&gt;
+                      &lt;h1&gt;Grow your business&lt;/h1&gt;
+                      I run a newsletter on data science for online businesses. Get FREE actionable advice every week to get more repeat customers. 
+                      &lt;br&gt;
+                      &lt;br&gt;
+
+
                       
                       &lt;input type=&quot;email&quot; value=&quot;&quot; name=&quot;EMAIL&quot; class=&quot;input-large&quot; id=&quot;mce-EMAIL&quot; placeholder=&quot;Your eMail address&quot;&gt;
-                      &lt;input type=&quot;submit&quot; value=&quot;+ Invite me&quot; name=&quot;subscribe&quot; id=&quot;mc-embedded-subscribe&quot; class=&quot;btn btn-primary btn-large&quot;&gt;
+                      &lt;input type=&quot;submit&quot; value=&quot;+ subscribe me&quot; name=&quot;subscribe&quot; id=&quot;mc-embedded-subscribe&quot; class=&quot;btn btn-primary btn-large&quot;&gt;
 
                       &lt;div id=&quot;mce-responses&quot; class=&quot;clear&quot;&gt;
                           &lt;div class=&quot;response alert alert-error&quot; id=&quot;mce-error-response&quot; style=&quot;display:none&quot;&gt;&lt;button class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;×&lt;/button&gt;&lt;/div&gt;
                           &lt;div class=&quot;response alert alert-success&quot; id=&quot;mce-success-response&quot; style=&quot;display:none&quot;&gt;&lt;button class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;×&lt;/button&gt;&lt;/div&gt;
-                      &lt;/div&gt; 
+                      &lt;/div&gt;
+                      SPAM sucks. I won't share your email address with anyone, ever.
                   &lt;/form&gt;
               &lt;/div&gt;
             &lt;/div&gt;  
@@ -394,14 +397,6 @@ For each result I found, I&amp;#39;d send a custom email to see if they would be
                     &lt;ul&gt;
                         
                         &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/blog.html&quot; property=&quot;dc:title&quot;&gt;Blog&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/blog.html&quot; property=&quot;dc:title&quot;&gt;Blog&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        &lt;li class=&quot;&quot;&gt;
                             &lt;a href=&quot;/problems-and-solutions.html&quot; property=&quot;dc:title&quot;&gt;Problems and solutions&lt;/a&gt;
                         &lt;/li&gt;
                         
@@ -421,509 +416,17 @@ For each result I found, I&amp;#39;d send a custom email to see if they would be
                         
                         
                         &lt;li class=&quot;active&quot;&gt;
-                            &lt;a href=&quot;/posts/How-to-blog-data-driven-to-maximize-impact-using-competitors-social-data-and-special-google-searches.html (1)&quot; property=&quot;dc:title&quot;&gt;How to blog data-driven to maximize impact, using competitors' social data and special google searches&lt;/a&gt;
+                            &lt;a href=&quot;/posts/How-to-blog-data-driven-to-maximize-impact-using-competitors-social-data-and-special-google-searches.html&quot; property=&quot;dc:title&quot;&gt;How-to: blog data-driven maximizing impact (using competitors' data &amp;amp; google searches)&lt;/a&gt;
                         &lt;/li&gt;
                         
                         
                         &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/posts/content-marketing.html (1)&quot; property=&quot;dc:title&quot;&gt;How to blog data-driven to maximize impact, using competitors' social data and special google searches&lt;/a&gt;
+                            &lt;a href=&quot;/posts/technical-reasons-not-to-pic-google-website-optimizer.html&quot; property=&quot;dc:title&quot;&gt;Technical reasons not to use google website optimizer (and Usability reasons too)&lt;/a&gt;
                         &lt;/li&gt;
                         
                         
                         &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/posts/technical-reasons-not-to-pic-google-website-optimizer.html (1)&quot; property=&quot;dc:title&quot;&gt;Technical reasons not to use google website optimizer (and Usability reasons too)&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        
-                        &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/posts/htm5-means-business-for-ecommerce.html (1)&quot; property=&quot;dc:title&quot;&gt;HTML5 means business for ecommerce&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    &lt;/ul&gt;
-                &lt;/nav&gt;
-                &lt;a href=&quot;blog.html&quot; class=&quot;dark-more&quot;&gt;view more&lt;/a&gt;
-            &lt;/div&gt;
-    &lt;/footer&gt;
-
-    &lt;footer class=&quot;sub-footer&quot;&gt;
-        &lt;div class=&quot;container&quot;&gt;
-            &lt;div class=&quot;eight columns left&quot;&gt;
-                &lt;p&gt;© 2013. All Rights Reserved.&lt;/p&gt;
-            &lt;/div&gt;
-
-            &lt;div class=&quot;eight columns right&quot;&gt;
-                &lt;div class=&quot;mixpanel&quot;&gt;
-                    &lt;a href=&quot;https://mixpanel.com/f/partner&quot;&gt;&lt;img src=&quot;http://cdn.mxpnl.com/site_media/images/partner/badge_blue.png&quot; alt=&quot;Mobile Analytics&quot; /&gt;&lt;/a&gt;
-                &lt;/div&gt;
-                &lt;!-- &lt;h1 class=&quot;logo&quot;&gt;&lt;a href=&quot;#&quot; title=&quot;Jose Quesada&quot;&gt;Jose Quesada&lt;/a&gt;&lt;/h1&gt; --&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/footer&gt;
-&lt;script &gt;(function(){
-	// Did we just livereload?
-var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
-if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
-	localStorage.removeItem('/docpad-livereload/reloaded');
-	console.log('LiveReloaded at', new Date())
-}
-
-// Listen for the regenerated event
-// and perform a reload of the page when the event occurs
-var listen = function(){
-	var socket = io.connect('/docpad-livereload');
-	socket.on('regenerated',function(){
-		if ( log ) {
-	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
-}
-document.location.reload();
-	});
-};
-	if ( typeof io !== 'undefined' ) {
-		listen();
-	} else {
-		// Inject socket.io into our page then listen once loaded
-var inject = function(){
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = true;
-	t.src = '/socket.io/socket.io.js';
-	t.onload = listen;
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t,s);
-};
-		inject();
-	}
-})();&lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</content>
-        </entry>
-    
-        <entry>
-            <title>How to blog data-driven to maximize impact, using competitors' social data and special google searches</title>
-            <link href="http://josequesada.com//posts/content-marketing.html (1)"/>
-            <updated>2013-02-26T23:00:00.000Z</updated>
-            <id>http://josequesada.com//posts/content-marketing.html (1)</id>
-            <content type="html">&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-    &lt;!-- Meta --&gt;
-    &lt;meta charset=&quot;utf-8&quot; /&gt;
-    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
-
-    &lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
-       More info: h5bp.com/i/378 --&gt;
-    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
-
-    &lt;!-- Our site title and description --&gt;
-    &lt;title&gt;How to blog data-driven to maximize impact, using competitors' social data and special google searches | Jose quesada: E-commerce database marketing&lt;/title&gt;
-    &lt;meta name=&quot;description&quot; content=&quot;Website of Jose Quesada.&quot; /&gt;
-    &lt;meta name=&quot;keywords&quot; content=&quot;quesada, jose quesada, R, semantic web, semantic analysis, predictive models, statistics, machine learning, marketing, psychographics, cognitive science, database marketing&quot; /&gt;
-    &lt;meta name=&quot;author&quot; content=&quot;Jose Quesada&quot; /&gt;
-
-    &lt;!-- Output DocPad produced meta elements --&gt;
-    &lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad&quot;/&gt;
-
-    &lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
-    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
-
-    &lt;!-- DocPad Meta Information --&gt;
-    &lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad&quot;/&gt;
-
-
-    &lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
-    &lt;!--[if lt IE 9]&gt;
-    &lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
-    &lt;![endif]--&gt;
-
-    &lt;!-- Styles --&gt;
-    &lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/skeleton.css&quot; /&gt;
-    &lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;
-    &lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/layout.css&quot; /&gt;
-    &lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/font-awesome.css&quot; /&gt;
-    &lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/github.css&quot; /&gt;
-
-
-    &lt;!--Start of Zopim Live Chat Script--&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;
-        window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-                d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-                _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
-            $.src='//cdn.zopim.com/?tHClqfAYcm1uy3yA5st8fxBAwZzDFM1a';z.t=+new Date;$.
-                    type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
-    &lt;/script&gt;
-    &lt;!--End of Zopim Live Chat Script--&gt;
-
-
-    &lt;!-- analytics.js  --&gt;&lt;script type=&quot;text/javascript&quot;&gt;
-    var analytics=analytics||[];analytics.load=function(e){var t=document.createElement(&quot;script&quot;);t.type=&quot;text/javascript&quot;,t.async=!0,t.src=(&quot;https:&quot;===document.location.protocol?&quot;https://&quot;:&quot;http://&quot;)+&quot;d2dq2ahtl5zl1z.cloudfront.net&quot;+&quot;/analytics.js/v1/&quot;+e+&quot;/analytics.min.js&quot;;var n=document.getElementsByTagName(&quot;script&quot;)[0];n.parentNode.insertBefore(t,n);var r=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}},s=[&quot;identify&quot;,&quot;track&quot;];for(var i=0;i&lt;s.length;i++)analytics[s[i]]=r(s[i])},
-    analytics.load(&quot;fxpif23&quot;);
-    &lt;/script&gt;
-    &lt;!-- end analytics.js --&gt;
-
-
-    &lt;!-- google analytics --&gt;&lt;script type=&quot;text/javascript&quot;&gt;
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', &quot;UA-36430477-1&quot;]);
-        _gaq.push(['_setDomainName', 'josequesada.com']);
-        _gaq.push(['_trackPageview']);
-
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-
-    &lt;/script&gt;
-
-    &lt;!-- start Mixpanel --&gt;&lt;script type=&quot;text/javascript&quot;&gt;(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement(&quot;script&quot;);a.type=&quot;text/javascript&quot;;a.async=!0;a.src=(&quot;https:&quot;===e.location.protocol?&quot;https:&quot;:&quot;http:&quot;)+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName(&quot;script&quot;)[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(&quot;.&quot;);2==a.length&amp;&amp;(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;&quot;undefined&quot;!==
-        typeof d?c=b[d]=[]:d=&quot;mixpanel&quot;;c.people=c.people||[];c.toString=function(b){var a=&quot;mixpanel&quot;;&quot;mixpanel&quot;!==d&amp;&amp;(a+=&quot;.&quot;+d);b||(a+=&quot; (stub)&quot;);return a};c.people.toString=function(){return c.toString(1)+&quot;.people (stub)&quot;};i=&quot;disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge&quot;.split(&quot; &quot;);for(g=0;g&lt;i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
-mixpanel.init(&quot;3fcbcafa555fc23a2d9863437ee2af0d&quot;);&lt;/script&gt;&lt;!-- end Mixpanel --&gt;
-
-&lt;/head&gt;
-
-&lt;body&gt;
-
-    &lt;div class=&quot;wrap-header&quot;&gt;
-        &lt;div class=&quot;container&quot;&gt;
-            &lt;h1 class=&quot;logo&quot;&gt;&lt;a href=&quot;/&quot; title=&quot;Jose Quesada PhD Ecommerce database marketing&quot;&gt;Jose Quesada&lt;/a&gt;&lt;/h1&gt;
-            &lt;nav class=&quot;primary&quot;&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;&lt;a href=&quot;/problems-and-solutions.html&quot;&gt;problems &amp; solutions&lt;/a&gt; / &lt;/li&gt;
-                    &lt;!-- &lt;li&gt;&lt;a href=&quot;/why-you-should-work-with-me.html&quot;&gt;problems &amp; solutions&lt;/a&gt; / &lt;/li&gt; --&gt;
-                    &lt;li&gt;&lt;a href=&quot;/blog.html&quot;&gt;blog&lt;/a&gt; / &lt;/li&gt;
-                    &lt;li&gt;&lt;script type=&quot;text/javascript&quot; language=&quot;javascript&quot;&gt;
-                    &lt;!--
-                    // Email obfuscator script 2.1 by Tim Williams, University of Arizona
-                    // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
-                    // This code is freeware provided these four comment lines remain intact
-                    // A wizard to generate this code is at http://www.jottings.com/obfuscator/
-                    { coded = &quot;Ga@EOmac4amWvW.7OG&quot;
-                      key = &quot;01yc9R8u3rmDNFLvWo5AC7YgV4nfG6zMjwkOxHJUileBZQTqbKE2IpsPShtdaX&quot;
-                      shift=coded.length
-                      link=&quot;&quot;
-                      for (i=0; i&lt;coded.length; i++) {
-                        if (key.indexOf(coded.charAt(i))==-1) {
-                          ltr = coded.charAt(i)
-                          link += (ltr)
-                        }
-                        else {
-                          ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
-                          link += (key.charAt(ltr))
-                        }
-                      }
-                    document.write(&quot;&lt;a href='mailto:&quot;+link+&quot;'&gt;contact&lt;/a&gt;&quot;)
-                    }
-                    //--&gt;
-                    &lt;/script&gt;&lt;noscript&gt;Sorry, you need Javascript on to email me.&lt;/noscript&gt;
-                    &lt;/li&gt;
-                &lt;/ul&gt;
-            &lt;/nav&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-
-
-     &lt;!-- text for the post --&gt;
-    &lt;div class=&quot;container post&quot;&gt;
-        &lt;div class=&quot;two-thirds column&quot;&gt;
-            &lt;div class=&quot;post-container&quot;&gt;
-            &lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
-                &lt;h1&gt;How to blog data-driven to maximize impact, using competitors' social data and special google searches&lt;/h1&gt;
-                &lt;div class=&quot;post-date&quot;&gt;Wednesday, February 27, 2013&lt;/div&gt;
-                &lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;I&amp;#39;m sure you have thought a lot about getting traffic from google searches by writing content. This is content marketing the safest way (for now) to acquire links. Google employs PhDs to prevent most SEO tricks, and because of that SEO best practices change from time to time. But focusing on excellent content is a safe bet, since most other methods have a high risk of being detected algorithmically. &lt;/p&gt;
-&lt;p&gt;The way I see it, there are two problems you need to solve: (1) how to find good topics that your audience craves, and (2) how to get others to link to you. Let&amp;#39;s try to answer these questions with data, as it should be :).&lt;/p&gt;
-&lt;p&gt;What comes next is a how-to to blog in a data-driven way. The hacks may seem too simple to actually work, even naive. But applying these systematically will get you results; and results you can measure. Try them for a week, and compare it with your previous blogging routine. This stuff relies on (1) collecting data from content nearby that is liked, so you can write similar posts, and (2) special google searches to get links.&lt;/p&gt;
-&lt;p&gt;There are many blog posts on &lt;a href=&quot;http://www.problogger.net/archives/2008/12/10/you-need-a-blog-strategy/&quot;&gt;blogging strategy&lt;/a&gt;. But I haven&amp;#39;t found actionable advice that is data-driven on a single post. Here is my attempt to write such a post for you.&lt;/p&gt;
-&lt;h2&gt;What to write&lt;/h2&gt;
-&lt;h3&gt;The effect table&lt;/h3&gt;
-&lt;p&gt;If you are a stand-up comedian, you get immediate feedback as you perform. This helps you morph your story on the fly, do more of what works. But since there&amp;#39;s no record of what people laughed at in the last 6 months... your guesses are limited to the time slice they are looking at you on stage. The more data you have, the better your guesses will be. As a blogger, you have an even better superpower: you can tap into what your audience likes not only when you write, but when others write. And then use this information to target exactly what your audience likes like a heat-seeking missile. I&amp;#39;ll show you how.&lt;/p&gt;
-&lt;p&gt;We are going to create a table that gives you clarity that few bloggers have (unless they possess super-human intuition). We will use it to make decisions for all the key questions on the rest of the post.&lt;/p&gt;
-&lt;p&gt;(Credit: I got this idea from Neil Patel&amp;#39;s mailing list, but I have added my own twist).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;I call this the &amp;#39;effect table&amp;#39;&lt;/strong&gt;. Let&amp;#39;s put in it anything that answers the question: &amp;#39;are my efforts having the effect I want, and if so, how much?&amp;#39;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Create an spreadsheet that lists all your competing blogs.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;For each post, you want to get an idea about how much their readership liked the content. Nothing better than counting tweets, facebook likes and all the obvious social submissions. You can automate this by using &lt;a href=&quot;http://sharedcount.com/&quot;&gt;sharedcount&lt;/a&gt;. Take the url and paste it in the textbox. Since you want to do this for multiple urls, you could use their &amp;#39;multi-url dashboard&amp;#39;.  The last time I tried, the table didn&amp;#39;t render on chrome 25; it does work on firefox, but the rendering is sloppy (headers are to the right of the table, columns are not aligned. It doesn&amp;#39;t matter, because what you need is the &amp;#39;export to CSV&amp;#39; function, and this works great. You will get something like the table below. I used two random posts; you should use the most recent posts from your competitors, or pundits you follow in your field.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;This technique will show you clearly which topics will get your audience engaged. You can write content related to those topics and they&amp;#39;ll  likely outperform topics that you generate &amp;#39;by hunch&amp;#39;. It&amp;#39;s kind of scary how most bloggers, your competitors included, will be just be following &amp;#39;what they personally like&amp;#39; as a compass for writing. While the human brain is pretty good at detecting trends, it&amp;#39;s never a bad idea to supplement its capacity with hard numbers. This is the power of a data-driven blogging strategy.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Following what the data tells us also increases our chances of writing a big hit. And it works wonders for writer&amp;#39;s block.&lt;/p&gt;
- &lt;table class=&quot;pretty-table&quot; summary=&quot;Social media data for two random posts.&quot;&gt;
-
-&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;URL&lt;/th&gt;&lt;th scope=&quot;col&quot;&gt;FB Likes&lt;/th&gt;&lt;th scope=&quot;col&quot;&gt;FB Shares&lt;/th&gt;&lt;th scope=&quot;col&quot;&gt;FB Comments&lt;/th&gt;&lt;th scope=&quot;col&quot;&gt;FB Total&lt;/th&gt;&lt;th scope=&quot;col&quot;&gt;Tweets&lt;/th&gt;&lt;th scope=&quot;col&quot;&gt;+1s&lt;/th&gt;&lt;th scope=&quot;col&quot;&gt;Diggs&lt;/th&gt;&lt;th scope=&quot;col&quot;&gt;Pins&lt;/th&gt;&lt;th scope=&quot;col&quot;&gt;LinkedIn Shares&lt;/th&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;&lt;a href=&quot;http://newscenter.berkeley.edu/2013/03/25/robert-wilensky-dies-at-61/&quot;&gt; Wilensky dies at 61&lt;/a&gt;&lt;/th&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;48&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;&lt;a href=&quot;http://irce.internetretailer.com/2013/&quot;&gt; Iretailer conf&lt;/a&gt;&lt;/th&gt;&lt;td&gt;62&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;81&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Some other data you can add is &amp;#39;number of comments&amp;#39; on the post, and &amp;#39;Hacker news votes&amp;#39; if the story was submitted to hacker news.  &lt;/p&gt;
-&lt;p&gt;One small detail: bear in mind that post date matters.&lt;/p&gt;
-&lt;p&gt;The date is often in the url, so no need to add a different column. Comparing a 3yo post with one out for a day is wrong because the older post has had more time to collect mentions and likes. This is even more of an issue for evergreen content. However, for normal, newsy stuff, after a week of social media swirl counts are stable.&lt;/p&gt;
-&lt;h3&gt;Should you stay on topic, blogging only relevant stuff for your audience?&lt;/h3&gt;
-&lt;p&gt;When blogging, do you need laser focus on your audience&amp;#39;s pain points? i.e., are detours damaging? Is every blog post that fails to hit their pain deducting from your perceived expertise?&lt;/p&gt;
-&lt;p&gt;This is a question I struggle with myself. Most of the posts I&amp;#39;d like to write are highly technical. To date I have not attempted to write posts with formulas, or complex graphs, because they do not work as well as more &amp;#39;marketer friendly&amp;#39; posts (I learnt this by using the effect table).&lt;/p&gt;
-&lt;p&gt;I don&amp;#39;t have data, but every time a member of your audience checks his mail or rss reader, to find a post that has NOTHING to do with his problems or one too advanced for his level, you are in danger of losing him. Although a sparkling of tangential posts is ok, be careful. Survey your audience, they might tell you when you were blogging something they didn&amp;#39;t care about. And of course, look at your engagement data. Are they commenting? Retweeting? Each audience is different, though. You can test yours, with the effect table.&lt;/p&gt;
-&lt;p&gt;But what do you do with those posts you have in your scratch box that are great, but not super-targeted for your audience? I recommend to post them in social media sites. I&amp;#39;m covering this next.&lt;/p&gt;
-&lt;h3&gt;How long?&lt;/h3&gt;
-&lt;p&gt;How long should a post be? Above 2000 words gets the best google rankings, and the most backlinks.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&quot;http://blog.serpiq.com/how-important-is-content-length-why-data-driven-seo-trumps-guru-opinions/&quot;&gt;serpIQ&lt;/a&gt; blog analyzed the top 10 search results for over 20,000 keywords and noticed a pattern.&lt;/p&gt;
-&lt;p&gt;The average content length for a web page that ranks in the top 10 results for any keyword on Google has at least 2000 words. And the higher up you go on the search listings page, the more content each web page contains.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/optimal-post-length.jpg&quot; alt=&quot;picture alt&quot; title=&quot;Optimal post length&quot;&gt;   &lt;/p&gt;
-&lt;h2&gt;Where to write&lt;/h2&gt;
-&lt;h3&gt;Should you post on your own blog, or do a guest post?&lt;/h3&gt;
-&lt;p&gt;Guest posting involves writing an article and publishing it on a web site owned by another publisher. They get a free article and you get a free link. Unfortunately, this technique is very close to paying for links -a very large violation of the Google Webmaster Guidelines. You aren’t paying for links with cash, but you are effectively paying for links with writing work. However, this is still in the spirit of what google stands for: making a better web. So I think guest posting is safe, and will be in the near future.&lt;/p&gt;
-&lt;p&gt;By making strategic partnerships with other bloggers, you can produce content and put it in a great location. But how well does it work?&lt;/p&gt;
-&lt;p&gt;You can check: &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Audience match. How well does the audience of the other site match your audience or the audience you hope to build?&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Site popularity. How large an audience does the other site have? How many people will see your content?&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Audience activity. There are some audiences that are simply more active online. Programmers, for example, all have blogs and a good twitter following.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Average effect. If you stick the last 5 posts from the host blogger in the effect table, ... are the numbers something you&amp;#39;d want to see on your own content?&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Authority. are search engines likely to see the site as an authority? Are your readers? This correlates with their average effect, but it&amp;#39;s not only how much they propagate on the net. How popular a post is is not necessarily related to how authoritative it is. If you have doubts, think LOLcats. They would score high on effect, but low on authority.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Finding data about the relative contribution of guest posting is challenging. The ideal situation would be to check your referrer stats, but this only works if you guest-blogged there at least once.  &lt;/p&gt;
-&lt;p&gt;Taken to a extreme, maintaining your own blog may not be necessary. Some don&amp;#39;t even run an own blog, but build a following by guest posting. One example is @FAKEGRIMLOCK, an anonymous poster than writes in all caps and copies the primitive grammar of a robot T-rex. Why his persona is so effective is material for another post. He started commenting on Fred Wilson&amp;#39;s AVC blog, then got invited to guest post, then moved on to a solo career that includes a book and a blog. But climbing the fame mountain by commenting on other people&amp;#39;s blogs is exceptional.&lt;/p&gt;
-&lt;h3&gt;How much do you need to blog in-house?&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Enough to make sure a future blogger host sees your content as valuable for his audience. Writing a quality post for another blogger is a great way to network with that blogger. But you must demonstrate that you are a worthwhile person to talk to, and this happens in your own blog.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Enough so that followers from your guest post find it a good place to stay. Ideally after having seen your guest article people will follow you back to your home base, your site, and read more.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Should you post in quora, g+, LinkedIn, etc?&lt;/h3&gt;
-&lt;p&gt;Sometimes you have content that just doesn&amp;#39;t fit the &amp;#39;persona&amp;#39; in your blog. I wonder if having posts that are all over the place will damage the type of &amp;#39;highly targeted&amp;#39; blog that would convert the most.&lt;/p&gt;
-&lt;p&gt;A great way to test this would be to make an experiment. Take two bloggers with similar audiences (say 1000 active readers); Let one of them be laser-focus, posting twice per week only on-topic. Let the other one post more (3 times per week), but rambling a bit. Check the engagement numbers. Which one you think has growh a better, more responsive audience?&lt;/p&gt;
-&lt;p&gt;While I have no data on this, I suspect the always-on-topic blogger would have a better audience. I&amp;#39;d love to run such an experiment, though.&lt;/p&gt;
-&lt;p&gt;So what to do with posts that would break the flow on your own blog? Post them on these social media sites. You should try an effect table for your quora, g+, LinkedIn, etc. It might be that one of these channels even outperforms posting on your own blog. LinkedIn seems useful for showing off professional expertise.&lt;/p&gt;
-&lt;h2&gt;How to get links&lt;/h2&gt;
-&lt;p&gt;There are many creative ways to build links, but we will stick to the basics for now. Let&amp;#39;s say that: &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;(1) You can guest post, which obviously produces at least a link back to your main site.,&lt;/li&gt;
-&lt;li&gt;(2) ... and you can use sites that like to link to resources like yours.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;(Credit: I got this idea from Rob Wailing&amp;#39;s mailing list.)&lt;/p&gt;
-&lt;h3&gt;Find blogs that take guest posts&lt;/h3&gt;
-&lt;p&gt;One of the hardest tasks for guest posting is finding blogs that allow guest posts.&lt;/p&gt;
-&lt;p&gt;One trick is to use Google syntax you can narrow down your list to blogs that accept guest posts.&lt;/p&gt;
-&lt;p&gt;Here are the two searches you would run:&lt;/p&gt;
-&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;haskell&quot;&gt;&lt;span class=&quot;title&quot;&gt;inpostauthor&lt;/span&gt;:guest [your market]
-&lt;span class=&quot;title&quot;&gt;inurl&lt;/span&gt;:category/guest [your market]&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;So for example,&lt;/p&gt;
-&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;haskell&quot;&gt;&lt;span class=&quot;title&quot;&gt;inpostauthor&lt;/span&gt;:guest sport clothes
-&lt;span class=&quot;title&quot;&gt;inurl&lt;/span&gt;:category/guest sport clothes&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;This query would search for web sites that talk about &amp;quot;sports clothing&amp;quot; and have a links page. Which is what you want to do if you are looking to build links to a sports clothing website &lt;/p&gt;
-&lt;p&gt;Now, it may be to your advantage to write on your own blog, and get sites to link to you. Or you may want to produce links for a guest post (a bit of a stretch, but this could be a reasonable thing to do).&lt;/p&gt;
-&lt;p&gt;You should add your guest posts to a table similar to the one in the &amp;#39;What to write&amp;#39; section. Compare stats with posts on your own blog, and with posts by the host. Are they performing better than the host&amp;#39;s average? Tell him that the next time you want to get featured.&lt;/p&gt;
-&lt;p&gt;While finding the right places to guest post could be outsourced, I&amp;#39;d try to follow the blog for a while. Consider whether the topic that you’re writing about has been covered before - or at least covered recently. Darren Rowse from Pro-Blogger prefers aspiring guest bloggers to contact him &lt;em&gt;before&lt;/em&gt; writing the post. Check of they have any recommendations for guest bloggers before commiting time to it.&lt;/p&gt;
-&lt;p&gt;Are your guest posts working for you? Remember coming back to your guest posts say a month later, and add them to your effect table.&lt;/p&gt;
-&lt;h3&gt;Find sites that like to link to resources like yours&lt;/h3&gt;
-&lt;p&gt;You need to find all sites that have a links section, and that are in your ballpark content area. Here&amp;#39;s the search command I would use on Google:&lt;/p&gt;
-&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;tag&quot;&gt;intitle&lt;/span&gt;&lt;span class=&quot;pseudo&quot;&gt;:&quot;sport&lt;/span&gt; &lt;span class=&quot;tag&quot;&gt;clothes&lt;/span&gt;&quot; &lt;span class=&quot;tag&quot;&gt;inurl&lt;/span&gt;&lt;span class=&quot;pseudo&quot;&gt;:&quot;links&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;br&gt;
-For each result I found, I&amp;#39;d send a custom email to see if they would be interested in linking to my website.&lt;/p&gt;
-&lt;p&gt;You can get ~ 10-15% of the websites you email to link back to your website. This is a task that any VA can do for under $10/hr. So even if you get only one backlink per hour, it&amp;#39;s not a bad price, assuming the quality of the sites you email is high. Launch your favorite backlink analysis tool and check out that blog’s links. A higher number of quality links indicates a healthier blog.&lt;/p&gt;
-&lt;p&gt;For more creative ways of link building, a great place to look is &lt;a href=&quot;http://inbound.org&quot;&gt;inbound&lt;/a&gt;. &lt;/p&gt;
-&lt;p&gt;These special queries will only get more powerful as google indexes more Semantic Markup. You can filter by date of post, by location, ... and maybe one day by product mentioned in the article.&lt;/p&gt;
-&lt;p&gt;The biggest mistake you can make is not to measure the results. If you apply any of the advice above, and it makes a big splash in your bottom line, I&amp;#39;d love to hear about it.&lt;/p&gt;
-&lt;/div&gt;
-            &lt;/article&gt;
-
-            &lt;!-- comments --&gt;
-                &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'jqj'; // required: replace example with your forum shortname
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
-
-
-&lt;!-- &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-    var disqus_developer = 1; // this makes it work on localhost. Not for me though
-    (function() {
-        window.disqus_shortname = 'urlwolf';
-        window.disqus_developer = document.location.href.indexOf('localhost') !== -1 ? 1 : 0;
-        window.disqus_url = document.location.href
-        window.disqus_identifier = 'posts-content-marketing';
-        window.disqus_title = 'How to blog data-driven to maximize impact, using competitors' social data and special google searches';
-        if ( window.DISQUS) {
-            return DISQUS.reset({
-                reload: true,
-                config: function () {
-                    this.page.identifier = window.disqus_identifier;
-                    this.page.url = window.disqus_url;
-                    this.page.title = window.disqus_title;
-                }
-            });
-        }
-        else {
-          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-          dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        }
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt; --&gt;
-            &lt;!-- end comments --&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-
-
-        &lt;!--  sidebar --&gt;
-
-        &lt;div class=&quot;one-third column&quot;&gt;
-
-            
-                &lt;h3&gt;Related Posts&lt;/h3&gt;
-                
-                    &lt;li&gt;&lt;a href=&quot;/posts/How-to-blog-data-driven-to-maximize-impact-using-competitors-social-data-and-special-google-searches.html (1)&quot;&gt;How to blog data-driven to maximize impact, using competitors' social data and special google searches&lt;/a&gt;&lt;/li&gt;
-                
-            
-
-            &lt;div class=&quot;follow-me-twitter&quot;&gt;
-                    &lt;!-- Begin MailChimp Signup Form 26c7f53623 --&gt;
-
-              &lt;div id=&quot;mc_embed_signup&quot;&gt;
-                  &lt;form action=&quot;http://fluidshopping.us2.list-manage.com/subscribe/post?u=252280e9029685764c8e5415f&amp;amp;id=26c7f53623&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate invite-form form-inline&quot; target=&quot;_blank&quot;&gt;
-                      
-                      &lt;input type=&quot;email&quot; value=&quot;&quot; name=&quot;EMAIL&quot; class=&quot;input-large&quot; id=&quot;mce-EMAIL&quot; placeholder=&quot;Your eMail address&quot;&gt;
-                      &lt;input type=&quot;submit&quot; value=&quot;+ Invite me&quot; name=&quot;subscribe&quot; id=&quot;mc-embedded-subscribe&quot; class=&quot;btn btn-primary btn-large&quot;&gt;
-
-                      &lt;div id=&quot;mce-responses&quot; class=&quot;clear&quot;&gt;
-                          &lt;div class=&quot;response alert alert-error&quot; id=&quot;mce-error-response&quot; style=&quot;display:none&quot;&gt;&lt;button class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;×&lt;/button&gt;&lt;/div&gt;
-                          &lt;div class=&quot;response alert alert-success&quot; id=&quot;mce-success-response&quot; style=&quot;display:none&quot;&gt;&lt;button class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;×&lt;/button&gt;&lt;/div&gt;
-                      &lt;/div&gt; 
-                  &lt;/form&gt;
-              &lt;/div&gt;
-            &lt;/div&gt;  
-
-            &lt;div class=&quot;follow-me-twitter&quot;&gt;
-                If you read this far, you should follow &lt;a href=&quot;../atom.xml&quot;&gt;my RSS feed here&lt;/a&gt;,
-                or on twitter &lt;a href=&quot;https://twitter.com/quesada&quot;&gt;here&lt;/a&gt;.
-            &lt;/div&gt;  
-
-        &lt;/div&gt;
-    &lt;/div&gt;
-
-
-    &lt;!-- NOTE: this footer differs from the one in default.html.eco in that the urls are deeper (it starts in /post). Otherwise the links to the rss feeds and the images would be broken (!)../images instead of images . Ugly solution but works for now (FIXME) --&gt;
-
-
-    &lt;!-- start of footer --&gt;
-    &lt;footer&gt;
-        &lt;div class=&quot;container widgets&quot;&gt;
-            &lt;div class=&quot;one-third column  about&quot;&gt;
-             &lt;h2&gt;About Me&lt;/h2&gt;
-                    &lt;img src=&quot;../images/josequesada.jpg&quot; alt=&quot;&quot; class=&quot;thumb&quot;/&gt;
-                    &lt;div&gt;
-                        &lt;p&gt;I'm a modeler, with a PhD in Machine learning. I worked at top labs (U. of Colorado, Boulder; Carnegie Mellon); But my specialty is to find and optimize business value. If you think you can decide better, do better, or be better through data, contact me for a free consultation: &lt;/p&gt;
-
-                        &lt;script type=&quot;text/javascript&quot; language=&quot;javascript&quot;&gt;
-                            &lt;!--
-                            // Email obfuscator script 2.1 by Tim Williams, University of Arizona
-                            // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
-                            // This code is freeware provided these four comment lines remain intact
-                            // A wizard to generate this code is at http://www.jottings.com/obfuscator/
-                            { coded = &quot;Ga@EOmac4amWvW.7OG&quot;
-                                key = &quot;01yc9R8u3rmDNFLvWo5AC7YgV4nfG6zMjwkOxHJUileBZQTqbKE2IpsPShtdaX&quot;
-                                shift=coded.length
-                                link=&quot;&quot;
-                                for (i=0; i&lt;coded.length; i++) {
-                                    if (key.indexOf(coded.charAt(i))==-1) {
-                                        ltr = coded.charAt(i)
-                                        link += (ltr)
-                                    }
-                                    else {
-                                        ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
-                                        link += (key.charAt(ltr))
-                                    }
-                                }
-                                document.write(&quot;&lt;a href='mailto:&quot;+link+&quot;'&gt;me@josequesada.com&lt;/a&gt;&quot;)
-                            }
-                            //--&gt;
-                        &lt;/script&gt;&lt;noscript&gt;Sorry, you need Javascript on to email me.&lt;/noscript&gt;
-                        &lt;br&gt;
-
-
-
-                        &lt;ul&gt;
-                            &lt;!-- &lt;li&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/facebook.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt; --&gt;
-                            &lt;li&gt;&lt;a href=&quot;https://twitter.com/quesada&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;../images/twitter.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-                            &lt;li&gt;&lt;a href=&quot;http://de.linkedin.com/in/jfquesada/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;../images/linkedin.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-
-                            &lt;li&gt;&lt;a href=&quot;../atom.xml&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;../images/rss.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-                        &lt;/ul&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;  
-
-            &lt;div class=&quot;one-third column  blog&quot;&gt;
-                &lt;h2&gt;Resources&lt;/h2&gt;
-                &lt;nav&gt;
-                    &lt;ul&gt;
-                        
-                        &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/blog.html&quot; property=&quot;dc:title&quot;&gt;Blog&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/blog.html&quot; property=&quot;dc:title&quot;&gt;Blog&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/problems-and-solutions.html&quot; property=&quot;dc:title&quot;&gt;Problems and solutions&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/why-you-should-work-with-me.html&quot; property=&quot;dc:title&quot;&gt;Why you should work with me&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    &lt;/ul&gt;
-                &lt;/nav&gt;
-            &lt;/div&gt;
-
-            &lt;div class=&quot;one-third column  blog&quot;&gt;
-                &lt;h2&gt;Recent posts&lt;/h2&gt;
-                &lt;nav&gt;
-                    &lt;ul&gt;
-                        
-                        
-                        
-                        &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/posts/How-to-blog-data-driven-to-maximize-impact-using-competitors-social-data-and-special-google-searches.html (1)&quot; property=&quot;dc:title&quot;&gt;How to blog data-driven to maximize impact, using competitors' social data and special google searches&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        
-                        &lt;li class=&quot;active&quot;&gt;
-                            &lt;a href=&quot;/posts/content-marketing.html (1)&quot; property=&quot;dc:title&quot;&gt;How to blog data-driven to maximize impact, using competitors' social data and special google searches&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        
-                        &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/posts/technical-reasons-not-to-pic-google-website-optimizer.html (1)&quot; property=&quot;dc:title&quot;&gt;Technical reasons not to use google website optimizer (and Usability reasons too)&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        
-                        &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/posts/htm5-means-business-for-ecommerce.html (1)&quot; property=&quot;dc:title&quot;&gt;HTML5 means business for ecommerce&lt;/a&gt;
+                            &lt;a href=&quot;/posts/htm5-means-business-for-ecommerce.html&quot; property=&quot;dc:title&quot;&gt;HTML5 means business for ecommerce&lt;/a&gt;
                         &lt;/li&gt;
                         
                     &lt;/ul&gt;
@@ -988,9 +491,9 @@ var inject = function(){
     
         <entry>
             <title>Technical reasons not to use google website optimizer (and Usability reasons too)</title>
-            <link href="http://josequesada.com//posts/technical-reasons-not-to-pic-google-website-optimizer.html (1)"/>
+            <link href="http://josequesada.com//posts/technical-reasons-not-to-pic-google-website-optimizer.html"/>
             <updated>2012-12-20T23:00:00.000Z</updated>
-            <id>http://josequesada.com//posts/technical-reasons-not-to-pic-google-website-optimizer.html (1)</id>
+            <id>http://josequesada.com//posts/technical-reasons-not-to-pic-google-website-optimizer.html</id>
             <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
@@ -1310,15 +813,22 @@ to muck with your code, look somewhere else. For more reviews, see
                     &lt;!-- Begin MailChimp Signup Form 26c7f53623 --&gt;
 
               &lt;div id=&quot;mc_embed_signup&quot;&gt;
-                  &lt;form action=&quot;http://fluidshopping.us2.list-manage.com/subscribe/post?u=252280e9029685764c8e5415f&amp;amp;id=26c7f53623&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate invite-form form-inline&quot; target=&quot;_blank&quot;&gt;
+                  &lt;form action=&quot;http://josequesada.us2.list-manage.com/subscribe/post?u=252280e9029685764c8e5415f&amp;amp;id=26c7f53623&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate invite-form form-inline&quot; target=&quot;_blank&quot;&gt;
+                      &lt;h1&gt;Grow your business&lt;/h1&gt;
+                      I run a newsletter on data science for online businesses. Get FREE actionable advice every week to get more repeat customers. 
+                      &lt;br&gt;
+                      &lt;br&gt;
+
+
                       
                       &lt;input type=&quot;email&quot; value=&quot;&quot; name=&quot;EMAIL&quot; class=&quot;input-large&quot; id=&quot;mce-EMAIL&quot; placeholder=&quot;Your eMail address&quot;&gt;
-                      &lt;input type=&quot;submit&quot; value=&quot;+ Invite me&quot; name=&quot;subscribe&quot; id=&quot;mc-embedded-subscribe&quot; class=&quot;btn btn-primary btn-large&quot;&gt;
+                      &lt;input type=&quot;submit&quot; value=&quot;+ subscribe me&quot; name=&quot;subscribe&quot; id=&quot;mc-embedded-subscribe&quot; class=&quot;btn btn-primary btn-large&quot;&gt;
 
                       &lt;div id=&quot;mce-responses&quot; class=&quot;clear&quot;&gt;
                           &lt;div class=&quot;response alert alert-error&quot; id=&quot;mce-error-response&quot; style=&quot;display:none&quot;&gt;&lt;button class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;×&lt;/button&gt;&lt;/div&gt;
                           &lt;div class=&quot;response alert alert-success&quot; id=&quot;mce-success-response&quot; style=&quot;display:none&quot;&gt;&lt;button class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;×&lt;/button&gt;&lt;/div&gt;
-                      &lt;/div&gt; 
+                      &lt;/div&gt;
+                      SPAM sucks. I won't share your email address with anyone, ever.
                   &lt;/form&gt;
               &lt;/div&gt;
             &lt;/div&gt;  
@@ -1388,14 +898,6 @@ to muck with your code, look somewhere else. For more reviews, see
                     &lt;ul&gt;
                         
                         &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/blog.html&quot; property=&quot;dc:title&quot;&gt;Blog&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/blog.html&quot; property=&quot;dc:title&quot;&gt;Blog&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        &lt;li class=&quot;&quot;&gt;
                             &lt;a href=&quot;/problems-and-solutions.html&quot; property=&quot;dc:title&quot;&gt;Problems and solutions&lt;/a&gt;
                         &lt;/li&gt;
                         
@@ -1415,22 +917,17 @@ to muck with your code, look somewhere else. For more reviews, see
                         
                         
                         &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/posts/How-to-blog-data-driven-to-maximize-impact-using-competitors-social-data-and-special-google-searches.html (1)&quot; property=&quot;dc:title&quot;&gt;How to blog data-driven to maximize impact, using competitors' social data and special google searches&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        
-                        &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/posts/content-marketing.html (1)&quot; property=&quot;dc:title&quot;&gt;How to blog data-driven to maximize impact, using competitors' social data and special google searches&lt;/a&gt;
+                            &lt;a href=&quot;/posts/How-to-blog-data-driven-to-maximize-impact-using-competitors-social-data-and-special-google-searches.html&quot; property=&quot;dc:title&quot;&gt;How-to: blog data-driven maximizing impact (using competitors' data &amp;amp; google searches)&lt;/a&gt;
                         &lt;/li&gt;
                         
                         
                         &lt;li class=&quot;active&quot;&gt;
-                            &lt;a href=&quot;/posts/technical-reasons-not-to-pic-google-website-optimizer.html (1)&quot; property=&quot;dc:title&quot;&gt;Technical reasons not to use google website optimizer (and Usability reasons too)&lt;/a&gt;
+                            &lt;a href=&quot;/posts/technical-reasons-not-to-pic-google-website-optimizer.html&quot; property=&quot;dc:title&quot;&gt;Technical reasons not to use google website optimizer (and Usability reasons too)&lt;/a&gt;
                         &lt;/li&gt;
                         
                         
                         &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/posts/htm5-means-business-for-ecommerce.html (1)&quot; property=&quot;dc:title&quot;&gt;HTML5 means business for ecommerce&lt;/a&gt;
+                            &lt;a href=&quot;/posts/htm5-means-business-for-ecommerce.html&quot; property=&quot;dc:title&quot;&gt;HTML5 means business for ecommerce&lt;/a&gt;
                         &lt;/li&gt;
                         
                     &lt;/ul&gt;
@@ -1495,9 +992,9 @@ var inject = function(){
     
         <entry>
             <title>HTML5 means business for ecommerce</title>
-            <link href="http://josequesada.com//posts/htm5-means-business-for-ecommerce.html (1)"/>
+            <link href="http://josequesada.com//posts/htm5-means-business-for-ecommerce.html"/>
             <updated>2012-12-19T23:00:00.000Z</updated>
-            <id>http://josequesada.com//posts/htm5-means-business-for-ecommerce.html (1)</id>
+            <id>http://josequesada.com//posts/htm5-means-business-for-ecommerce.html</id>
             <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
@@ -1708,15 +1205,22 @@ Signs that it’s time to pay attention to HTML5: Effective August 1, 2011, Goog
                     &lt;!-- Begin MailChimp Signup Form 26c7f53623 --&gt;
 
               &lt;div id=&quot;mc_embed_signup&quot;&gt;
-                  &lt;form action=&quot;http://fluidshopping.us2.list-manage.com/subscribe/post?u=252280e9029685764c8e5415f&amp;amp;id=26c7f53623&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate invite-form form-inline&quot; target=&quot;_blank&quot;&gt;
+                  &lt;form action=&quot;http://josequesada.us2.list-manage.com/subscribe/post?u=252280e9029685764c8e5415f&amp;amp;id=26c7f53623&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate invite-form form-inline&quot; target=&quot;_blank&quot;&gt;
+                      &lt;h1&gt;Grow your business&lt;/h1&gt;
+                      I run a newsletter on data science for online businesses. Get FREE actionable advice every week to get more repeat customers. 
+                      &lt;br&gt;
+                      &lt;br&gt;
+
+
                       
                       &lt;input type=&quot;email&quot; value=&quot;&quot; name=&quot;EMAIL&quot; class=&quot;input-large&quot; id=&quot;mce-EMAIL&quot; placeholder=&quot;Your eMail address&quot;&gt;
-                      &lt;input type=&quot;submit&quot; value=&quot;+ Invite me&quot; name=&quot;subscribe&quot; id=&quot;mc-embedded-subscribe&quot; class=&quot;btn btn-primary btn-large&quot;&gt;
+                      &lt;input type=&quot;submit&quot; value=&quot;+ subscribe me&quot; name=&quot;subscribe&quot; id=&quot;mc-embedded-subscribe&quot; class=&quot;btn btn-primary btn-large&quot;&gt;
 
                       &lt;div id=&quot;mce-responses&quot; class=&quot;clear&quot;&gt;
                           &lt;div class=&quot;response alert alert-error&quot; id=&quot;mce-error-response&quot; style=&quot;display:none&quot;&gt;&lt;button class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;×&lt;/button&gt;&lt;/div&gt;
                           &lt;div class=&quot;response alert alert-success&quot; id=&quot;mce-success-response&quot; style=&quot;display:none&quot;&gt;&lt;button class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;×&lt;/button&gt;&lt;/div&gt;
-                      &lt;/div&gt; 
+                      &lt;/div&gt;
+                      SPAM sucks. I won't share your email address with anyone, ever.
                   &lt;/form&gt;
               &lt;/div&gt;
             &lt;/div&gt;  
@@ -1786,14 +1290,6 @@ Signs that it’s time to pay attention to HTML5: Effective August 1, 2011, Goog
                     &lt;ul&gt;
                         
                         &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/blog.html&quot; property=&quot;dc:title&quot;&gt;Blog&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/blog.html&quot; property=&quot;dc:title&quot;&gt;Blog&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        &lt;li class=&quot;&quot;&gt;
                             &lt;a href=&quot;/problems-and-solutions.html&quot; property=&quot;dc:title&quot;&gt;Problems and solutions&lt;/a&gt;
                         &lt;/li&gt;
                         
@@ -1813,22 +1309,17 @@ Signs that it’s time to pay attention to HTML5: Effective August 1, 2011, Goog
                         
                         
                         &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/posts/How-to-blog-data-driven-to-maximize-impact-using-competitors-social-data-and-special-google-searches.html (1)&quot; property=&quot;dc:title&quot;&gt;How to blog data-driven to maximize impact, using competitors' social data and special google searches&lt;/a&gt;
+                            &lt;a href=&quot;/posts/How-to-blog-data-driven-to-maximize-impact-using-competitors-social-data-and-special-google-searches.html&quot; property=&quot;dc:title&quot;&gt;How-to: blog data-driven maximizing impact (using competitors' data &amp;amp; google searches)&lt;/a&gt;
                         &lt;/li&gt;
                         
                         
                         &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/posts/content-marketing.html (1)&quot; property=&quot;dc:title&quot;&gt;How to blog data-driven to maximize impact, using competitors' social data and special google searches&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                        
-                        &lt;li class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/posts/technical-reasons-not-to-pic-google-website-optimizer.html (1)&quot; property=&quot;dc:title&quot;&gt;Technical reasons not to use google website optimizer (and Usability reasons too)&lt;/a&gt;
+                            &lt;a href=&quot;/posts/technical-reasons-not-to-pic-google-website-optimizer.html&quot; property=&quot;dc:title&quot;&gt;Technical reasons not to use google website optimizer (and Usability reasons too)&lt;/a&gt;
                         &lt;/li&gt;
                         
                         
                         &lt;li class=&quot;active&quot;&gt;
-                            &lt;a href=&quot;/posts/htm5-means-business-for-ecommerce.html (1)&quot; property=&quot;dc:title&quot;&gt;HTML5 means business for ecommerce&lt;/a&gt;
+                            &lt;a href=&quot;/posts/htm5-means-business-for-ecommerce.html&quot; property=&quot;dc:title&quot;&gt;HTML5 means business for ecommerce&lt;/a&gt;
                         &lt;/li&gt;
                         
                     &lt;/ul&gt;
