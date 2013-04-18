@@ -26,9 +26,10 @@ About the node ecosystem...
 
 2- The [node aesthetic](http://substack.net/posts/b96642) goes a long way to promote radical reusability. This is very similar to the unix philosophy (do one thing only, and do it well). Packages are tiny, when you install one it looks like it's downloading half the internet: reusability is very high. 
 
-For these two reasons, node's community moves at blazing speeds.
+For these two reasons, node's community moves at blazing speeds. UPDATE: after ~6m of use... This has one downside: things break all the time. I'd say I have spend more time fixing bugs after updates than actually working on my site. Updating node and docpad is as dangerous as playing with knifes, and I simply won't do it anymore. Buyer beware.
 
 Thanks to:
 
 - Ben Lupton for [docpad](http://docpad.org). He's very commited to making docpad the best CMS possible. Still too geeky for the masses, but in the future docpad could dethrone wordpress.
+
 - [Ben Delarre](http://www.delarre.net/) for his pagination plugin and sharing the code for his bootstrap-basd docpad blog.
